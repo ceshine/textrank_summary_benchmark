@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+
+
+</head>
+<body style="background-color:white;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#ibimddltfh .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  /* table.background.color */
+  width: auto;
+  /* table.width */
+  border-top-style: solid;
+  /* table.border.top.style */
+  border-top-width: 2px;
+  /* table.border.top.width */
+  border-top-color: #A8A8A8;
+  /* table.border.top.color */
+}
+
+#ibimddltfh .gt_heading {
+  background-color: #FFFFFF;
+  /* heading.background.color */
+  border-bottom-color: #FFFFFF;
+}
+
+#ibimddltfh .gt_title {
+  color: #000000;
+  font-size: 125%;
+  /* heading.title.font.size */
+  padding-top: 4px;
+  /* heading.top.padding */
+  padding-bottom: 1px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#ibimddltfh .gt_subtitle {
+  color: #000000;
+  font-size: 85%;
+  /* heading.subtitle.font.size */
+  padding-top: 1px;
+  padding-bottom: 4px;
+  /* heading.bottom.padding */
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#ibimddltfh .gt_bottom_border {
+  border-bottom-style: solid;
+  /* heading.border.bottom.style */
+  border-bottom-width: 2px;
+  /* heading.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* heading.border.bottom.color */
+}
+
+#ibimddltfh .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#ibimddltfh .gt_col_heading {
+  color: #000000;
+  background-color: #FFFFFF;
+  /* column_labels.background.color */
+  font-size: 16px;
+  /* column_labels.font.size */
+  font-weight: initial;
+  /* column_labels.font.weight */
+  vertical-align: middle;
+  padding: 10px;
+  margin: 10px;
+}
+
+#ibimddltfh .gt_sep_right {
+  border-right: 5px solid #FFFFFF;
+}
+
+#ibimddltfh .gt_group_heading {
+  padding: 8px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* row_group.background.color */
+  font-size: 16px;
+  /* row_group.font.size */
+  font-weight: initial;
+  /* row_group.font.weight */
+  border-top-style: solid;
+  /* row_group.border.top.style */
+  border-top-width: 2px;
+  /* row_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* row_group.border.top.color */
+  border-bottom-style: solid;
+  /* row_group.border.bottom.style */
+  border-bottom-width: 2px;
+  /* row_group.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* row_group.border.bottom.color */
+  vertical-align: middle;
+}
+
+#ibimddltfh .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #000000;
+  background-color: #FFFFFF;
+  /* row_group.background.color */
+  font-size: 16px;
+  /* row_group.font.size */
+  font-weight: initial;
+  /* row_group.font.weight */
+  border-top-style: solid;
+  /* row_group.border.top.style */
+  border-top-width: 2px;
+  /* row_group.border.top.width */
+  border-top-color: #A8A8A8;
+  /* row_group.border.top.color */
+  border-bottom-style: solid;
+  /* row_group.border.bottom.style */
+  border-bottom-width: 2px;
+  /* row_group.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* row_group.border.bottom.color */
+  vertical-align: middle;
+}
+
+#ibimddltfh .gt_striped {
+  background-color: #f2f2f2;
+}
+
+#ibimddltfh .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#ibimddltfh .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#ibimddltfh .gt_row {
+  padding: 10px;
+  /* row.padding */
+  margin: 10px;
+  vertical-align: middle;
+}
+
+#ibimddltfh .gt_stub {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #A8A8A8;
+  padding-left: 12px;
+}
+
+#ibimddltfh .gt_stub.gt_row {
+  background-color: #FFFFFF;
+}
+
+#ibimddltfh .gt_summary_row {
+  background-color: #FFFFFF;
+  /* summary_row.background.color */
+  padding: 6px;
+  /* summary_row.padding */
+  text-transform: inherit;
+  /* summary_row.text_transform */
+}
+
+#ibimddltfh .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+}
+
+#ibimddltfh .gt_table_body {
+  border-top-style: solid;
+  /* table_body.border.top.style */
+  border-top-width: 2px;
+  /* table_body.border.top.width */
+  border-top-color: #A8A8A8;
+  /* table_body.border.top.color */
+  border-bottom-style: solid;
+  /* table_body.border.bottom.style */
+  border-bottom-width: 2px;
+  /* table_body.border.bottom.width */
+  border-bottom-color: #A8A8A8;
+  /* table_body.border.bottom.color */
+}
+
+#ibimddltfh .gt_footnote {
+  font-size: 90%;
+  /* footnote.font.size */
+  padding: 4px;
+  /* footnote.padding */
+}
+
+#ibimddltfh .gt_sourcenote {
+  font-size: 90%;
+  /* sourcenote.font.size */
+  padding: 4px;
+  /* sourcenote.padding */
+}
+
+#ibimddltfh .gt_center {
+  text-align: center;
+}
+
+#ibimddltfh .gt_left {
+  text-align: left;
+}
+
+#ibimddltfh .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#ibimddltfh .gt_font_normal {
+  font-weight: normal;
+}
+
+#ibimddltfh .gt_font_bold {
+  font-weight: bold;
+}
+
+#ibimddltfh .gt_font_italic {
+  font-style: italic;
+}
+
+#ibimddltfh .gt_super {
+  font-size: 65%;
+}
+
+#ibimddltfh .gt_footnote_glyph {
+  font-style: italic;
+  font-size: 65%;
+}
+</style>
+<div id="ibimddltfh" style="overflow-x:auto;"><!--gt table start-->
+<table class="gt_table">
+<thead>
+<tr>
+<th colspan="7" class="gt_heading gt_title gt_font_normal gt_center">CNN / Daily Mail Dataset Benchmark</th>
+</tr>
+<tr>
+<th colspan="7" class="gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border"></th>
+</tr>
+</thead>
+<tr>
+<th class="gt_col_heading gt_left" rowspan="2" colspan="1"></th>
+<th class="gt_col_heading gt_column_spanner gt_sep_right gt_center" rowspan="1" colspan="2">Rouge-1</th>
+<th class="gt_col_heading gt_column_spanner gt_sep_right gt_center" rowspan="1" colspan="2">Rouge-2</th>
+<th class="gt_col_heading gt_column_spanner gt_center" rowspan="1" colspan="2">Rouge-L</th>
+</tr>
+<tr>
+<th class="gt_col_heading gt_right" rowspan="1" colspan="1">Recall</th>
+<th class="gt_col_heading gt_right" rowspan="1" colspan="1">Fscore</th>
+<th class="gt_col_heading gt_right" rowspan="1" colspan="1">Recall</th>
+<th class="gt_col_heading gt_right" rowspan="1" colspan="1">Fscore</th>
+<th class="gt_col_heading gt_right" rowspan="1" colspan="1">Recall</th>
+<th class="gt_col_heading gt_right" rowspan="1" colspan="1">Fscore</th>
+</tr>
+<tbody class="gt_table_body">
+<tr class="gt_group_heading_row">
+<td colspan="7" class="gt_group_heading">Ratio = .1</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">Random</td>
+<td class="gt_row gt_right" style="color:#999;">0.2673</td>
+<td class="gt_row gt_right" style="color:#999;">0.2526</td>
+<td class="gt_row gt_right" style="color:#999;">0.0680</td>
+<td class="gt_row gt_right" style="color:#999;">0.0642</td>
+<td class="gt_row gt_right" style="color:#999;">0.2369</td>
+<td class="gt_row gt_right" style="color:#999;">0.2040</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">Head</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.4219</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.3710</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.1747</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.1459</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.3807</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.3061</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">TextRank</td>
+<td class="gt_row gt_right">0.4030</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.3522</td>
+<td class="gt_row gt_right">0.1545</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.1291</td>
+<td class="gt_row gt_right">0.3607</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.2869</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">BM25+ (eps=.25)</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.4194</td>
+<td class="gt_row gt_right gt_striped">0.3466</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.1609</td>
+<td class="gt_row gt_right gt_striped">0.1268</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.3744</td>
+<td class="gt_row gt_right gt_striped">0.2790</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">USE (Base)</td>
+<td class="gt_row gt_right">0.3598</td>
+<td class="gt_row gt_right">0.3270</td>
+<td class="gt_row gt_right">0.1241</td>
+<td class="gt_row gt_right">0.1095</td>
+<td class="gt_row gt_right">0.3214</td>
+<td class="gt_row gt_right">0.2667</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">USE (Large)</td>
+<td class="gt_row gt_right gt_striped">0.3555</td>
+<td class="gt_row gt_right gt_striped">0.3201</td>
+<td class="gt_row gt_right gt_striped">0.1201</td>
+<td class="gt_row gt_right gt_striped">0.1052</td>
+<td class="gt_row gt_right gt_striped">0.3168</td>
+<td class="gt_row gt_right gt_striped">0.2601</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">USE (Xling)</td>
+<td class="gt_row gt_right">0.3558</td>
+<td class="gt_row gt_right">0.3262</td>
+<td class="gt_row gt_right">0.1215</td>
+<td class="gt_row gt_right">0.1082</td>
+<td class="gt_row gt_right">0.3169</td>
+<td class="gt_row gt_right">0.2656</td>
+</tr>
+<tr class="gt_group_heading_row">
+<td colspan="7" class="gt_group_heading">Ratio = .2</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">Random</td>
+<td class="gt_row gt_right gt_striped" style="color:#999;">0.4158</td>
+<td class="gt_row gt_right gt_striped" style="color:#999;">0.2901</td>
+<td class="gt_row gt_right gt_striped" style="color:#999;">0.1314</td>
+<td class="gt_row gt_right gt_striped" style="color:#999;">0.0856</td>
+<td class="gt_row gt_right gt_striped" style="color:#999;">0.3766</td>
+<td class="gt_row gt_right gt_striped" style="color:#999;">0.2267</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">Head</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.5880</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.3901</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.2803</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.1650</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.5449</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.3070</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">TextRank</td>
+<td class="gt_row gt_right gt_striped">0.5471</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.3563</td>
+<td class="gt_row gt_right gt_striped">0.2414</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.1367</td>
+<td class="gt_row gt_right gt_striped">0.5041</td>
+<td class="gt_row gt_right gt_striped" style="font-weight:bold;">0.2768</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">BM25+ (eps=.25)</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.5663</td>
+<td class="gt_row gt_right">0.3496</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.2506</td>
+<td class="gt_row gt_right">0.1338</td>
+<td class="gt_row gt_right" style="font-weight:bold;">0.5212</td>
+<td class="gt_row gt_right">0.2659</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">USE (Base)</td>
+<td class="gt_row gt_right gt_striped">0.5185</td>
+<td class="gt_row gt_right gt_striped">0.3440</td>
+<td class="gt_row gt_right gt_striped">0.2151</td>
+<td class="gt_row gt_right gt_striped">0.1256</td>
+<td class="gt_row gt_right gt_striped">0.4767</td>
+<td class="gt_row gt_right gt_striped">0.2681</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">USE (Large)</td>
+<td class="gt_row gt_right">0.5162</td>
+<td class="gt_row gt_right">0.3384</td>
+<td class="gt_row gt_right">0.2119</td>
+<td class="gt_row gt_right">0.1226</td>
+<td class="gt_row gt_right">0.4740</td>
+<td class="gt_row gt_right">0.2624</td>
+</tr>
+<tr>
+<td class="gt_row gt_stub gt_left">USE (Xling)</td>
+<td class="gt_row gt_right gt_striped">0.5121</td>
+<td class="gt_row gt_right gt_striped">0.2811</td>
+<td class="gt_row gt_right gt_striped">0.2099</td>
+<td class="gt_row gt_right gt_striped">0.0986</td>
+<td class="gt_row gt_right gt_striped">0.4701</td>
+<td class="gt_row gt_right gt_striped">0.2573</td>
+</tr>
+</tbody>
+</table>
+<!--gt table end-->
+</div>
+</body>
+</html>
