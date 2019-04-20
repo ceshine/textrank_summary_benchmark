@@ -1,5 +1,8 @@
 from math import log10
 
+import numpy as np
+import pandas as pd
+import tensorflow as tf
 from summa.summarizer import _count_common_words
 
 from bm25 import bm25pluseps_weights as _bm25pluseps_weights
@@ -32,3 +35,36 @@ def bm25pluseps_weights_similarity_factory(sentences, eps=0.25):
         return weights[sentence_index[s1]][sentence_index[s2]]
 
     return bm25plus_weights_similarity
+
+
+def setence_embeddings_similarity_factory(sentences, sentence_input, sentence_emb, batch_size=32):
+    df_sent = pd.DataFrame(
+        [(x.text, x.token) for x in sentences],
+        columns=("text", "token")
+    )
+    # # remove extremely short sentences
+    # df_sent = df_sent[df_sent.text.str.len() > 5]
+    # Deduplicate
+    df_sent = df_sent.drop_duplicates()
+    sentence_index = {row["token"]: i for i, row in df_sent.iterrows()}
+    sentence_embeddings = []
+    with tf.Session() as session:
+        session.run([tf.global_variables_initializer(),
+                     tf.tables_initializer()])
+        for i in range(0, len(sentences), batch_size):
+            sentence_embeddings.append(
+                session.run(
+                    sentence_emb,
+                    feed_dict={
+                        sentence_input: df_sent.iloc[
+                            i:(i+batch_size), 0]
+                    }
+                )
+            )
+    sentence_embeddings = np.concatenate(sentence_embeddings, axis=0)
+    similarity_matrix = sentence_embeddings @ sentence_embeddings.T
+
+    def cosine_similarity(s1, s2):
+        return similarity_matrix[sentence_index[s1], sentence_index[s2]]
+
+    return cosine_similarity

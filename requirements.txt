@@ -1,3 +1,6 @@
 https://github.com/ceshine/textrank/archive/master.zip
 prettyprinter
 rouge
+pandas
+numpy
+tensorflow==1.31.1

@@ -6,13 +6,16 @@ from rouge import Rouge
 from prettyprinter import pprint
 from summa.summarizer import summarize
 
+from sentence_encoder import get_model
 from similarity_functions import (
-    original_textrank_similarity, bm25pluseps_weights_similarity_factory
+    original_textrank_similarity, bm25pluseps_weights_similarity_factory,
+    setence_embeddings_similarity_factory
 )
 
 SIM_FUNCS = {
-    "original": lambda _: original_textrank_similarity,
-    "bm25pluseps025": partial(bm25pluseps_weights_similarity_factory, eps=0.25)
+    # "original": lambda _: original_textrank_similarity,
+    # "bm25pluseps025": partial(bm25pluseps_weights_similarity_factory, eps=0.25),
+    "sent_emb_large": partial(setence_embeddings_similarity_factory, **get_model("large"))
 }
 
 RESULTS_DIR = Path("results/")
