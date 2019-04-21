@@ -48,19 +48,30 @@ Notes:
 * Random: Randomly pick "Ratio*100"% of the sentences.
 * USE: Universal Sentence Encoder
 
+### Remarks
+
+The sentence embeddings are supposed to better capture the semantic information than term frequency features, but the results shows using these embeddings to compute similarities between sentences yields consistently worse Rouge scores than traditional term-based metrics. The fact that Rouge requires strict adherence to the n-grams of the reference summaries probably has something to do with this result.
+
+The extractive TextRank algorithm underperform simple heuristic baseline is in line with the results from Grusky et al.[4]:
+
+![automatic evaluation](imgs/newsroom-machine.png)
+
+However, TextRank fares better under human evaluations, outperforming deep learning models overall, but still fell short of the heuristic baseline:
+
+![human evaluation](imgs/newsroom-human.png)
+
 ## References
 
 1. Mihalcea, R., Tarau, P.:
-  `"Textrank: Bringing order into texts" <http://www.aclweb.org/anthology/W04-3252>`__.
-  In: Lin, D., Wu, D. (eds.)
+  [Textrank: Bringing order into texts](http://www.aclweb.org/anthology/W04-3252).  In: Lin, D., Wu, D. (eds.)
   Proceedings of EMNLP 2004. pp. 404–411. Association for Computational Linguistics,
   Barcelona, Spain. July 2004.
 
 2. Barrios, F., López, F., Argerich, L., Wachenchauzer, R.:
-  `"Variations of the Similarity Function of TextRank for Automated Summarization" <https://arxiv.org/pdf/1602.03606.pdf>`__.
-  Anales de las 44JAIIO.
-  Jornadas Argentinas de Informática, Argentine Symposium on Artificial Intelligence, 2015.
+  [Variations of the Similarity Function of TextRank for Automated Summarization](https://arxiv.org/pdf/1602.03606.pdf).  Anales de las 44JAIIO.  Jornadas Argentinas de Informática, Argentine Symposium on Artificial Intelligence, 2015.
 
 3. Daniel Cer, Yinfei Yang, Sheng-yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St. John, Noah Constant, Mario Guajardo-Céspedes, Steve Yuan, Chris Tar, Yun-Hsuan Sung, Brian Strope, Ray Kurzweil:
  [Universal Sentence
 Encoder. arXiv:1803.11175, 2018.](https://arxiv.org/abs/1803.11175)
+
+4. Grusky, M., Naaman, M., & Artzi, Y. (2018). [Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies.](https://doi.org/10.18653/v1/N18-1065)

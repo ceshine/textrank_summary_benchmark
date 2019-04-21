@@ -1,0 +1,6 @@
+*~
+*#
+*.7z
+*.pkl
+.mypy_cache/
+__pycache__
