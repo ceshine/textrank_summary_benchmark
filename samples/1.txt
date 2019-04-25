@@ -1,0 +1,280 @@
+====================
+Sample 1
+====================
+
+the irs ' overloaded phone system hung up on more than eight million taxpayers this filing season as the agency cut millions of dollars from customer services . for those who were n't disconnected , only 40percent actually got through to a person . many of those people had to wait on hold for more than 30 minutes , irs commissioner john koskinen said wednesday . dead line : the irs ' overloaded phone system hung up on more than 8 million taxpayers this filing season as the agency cut millions of dollars from taxpayer services . a new staff report by republicans on the house ways and means committee says the irs diverted millions from taxpayer services and other areas to pay for president barack obama 's health law . at a hearing wednesday , koskinen blamed budget cuts approved by congress . the agency 's budget has been cut by $ 1.2 billion since 2010 . ` customer service , both on the phone and in person has been much far worse than anyone would want , ' koskinen told a ways and means subcommittee . speaking out : many of those people had to wait on hold for more than 30 minutes , irs commissioner john koskinen said wednesday -lrb- pictured above -rrb- . ` it 's simply a matter of not having enough people to answer the phones and provide service at our walk-in sites as a result of cuts to our budget . ' koskinen said the agency is required by law to implement the health law , leaving him with few other places to cut . he said the agency requested a total of $ 600 million over the past two years for computer upgrades to implement the health law as well as a new law requiring foreign banks to report information about u.s. account holders . ` in both years the congress gave us zero dollars so we had no choice but to look elsewhere , ' koskinen said .
+
+
+--------------------
+Reference
+--------------------
+for those who were n't disconnected , only 40percent actually got through .  many of those people had to wait on hold for more than 30 minutes , irs commissioner john koskinen said wednesday .  he blamed budget cuts approved by congress for the phone problems .  the agency 's budget has been cut by $ 1.2 billion since 2010 . 
+
+
+--------------------
+Random@0.1
+--------------------
+for those who were n't disconnected , only 40percent actually got through to a person .
+
+
+--------------------
+Head@0.1
+--------------------
+the irs ' overloaded phone system hung up on more than eight million taxpayers this filing season as the agency cut millions of dollars from customer services .
+
+
+--------------------
+TextRank@0.1
+--------------------
+the irs ' overloaded phone system hung up on more than eight million taxpayers this filing season as the agency cut millions of dollars from customer services .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+the irs ' overloaded phone system hung up on more than eight million taxpayers this filing season as the agency cut millions of dollars from customer services .
+
+
+--------------------
+USE-base@0.1
+--------------------
+dead line : the irs ' overloaded phone system hung up on more than 8 million taxpayers this filing season as the agency cut millions of dollars from taxpayer services .
+
+
+--------------------
+USE-large@0.1
+--------------------
+dead line : the irs ' overloaded phone system hung up on more than 8 million taxpayers this filing season as the agency cut millions of dollars from taxpayer services .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+dead line : the irs ' overloaded phone system hung up on more than 8 million taxpayers this filing season as the agency cut millions of dollars from taxpayer services .
+
+
+
+====================
+Sample 2
+====================
+
+the city of eugene in the united states has been awarded the rights to host the 2021 iaaf world championships . the decision was taken by the international association of athletics federations council , who decided to bypass the usual bidding process because of what it saw as a ` unique strategic opportunity to host the iaaf world championships for the first time in the usa ' . eugene failed last november in its bid to host the 2019 event , which was instead awarded to doha , but a recent presentation to the iaaf persuaded the governing body the city has what it takes to stage a world championships . eugene in the united states has been awarded the rights to host the 2021 iaaf world championships . qatar captial doha , home to the aspire dome , beat eugene to host the 2019 event . ` in granting the championships to eugene the iaaf council have made a clear choice on a strategic decision that enables us to take advantage of a unique opportunity that may never arise again , whereby public authorities , the private sector , the national olympic committee , nbc and a particularly enthusiastic public are joining forces , ' iaaf president lamine diack said in a statement . ` although this decision departs from the usual procedure , i am delighted that my council colleagues understood the enormous opportunity presented to us to access a key market and have taken a decision in the interest of the global development of our sport . ' the 2007 world championships held in osaka , japan was also awarded without a bidding process . mo farah won gold in the men 's 10000 metres during the 2013 iaaf world athletics championships in moscow .
+
+
+--------------------
+Reference
+--------------------
+eugene , oregon will host the 2021 world athletics championships .  the sport 's governing body iaaf bypassed the normal bidding process .  eugene missed out on bid to host 2019 event which was awarded to doha . 
+
+
+--------------------
+Random@0.1
+--------------------
+mo farah won gold in the men 's 10000 metres during the 2013 iaaf world athletics championships in moscow .
+
+
+--------------------
+Head@0.1
+--------------------
+the city of eugene in the united states has been awarded the rights to host the 2021 iaaf world championships .
+
+
+--------------------
+TextRank@0.1
+--------------------
+the city of eugene in the united states has been awarded the rights to host the 2021 iaaf world championships .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+the decision was taken by the international association of athletics federations council , who decided to bypass the usual bidding process because of what it saw as a ` unique strategic opportunity to host the iaaf world championships for the first time in the usa ' .
+
+
+--------------------
+USE-base@0.1
+--------------------
+eugene failed last november in its bid to host the 2019 event , which was instead awarded to doha , but a recent presentation to the iaaf persuaded the governing body the city has what it takes to stage a world championships .
+
+
+--------------------
+USE-large@0.1
+--------------------
+the decision was taken by the international association of athletics federations council , who decided to bypass the usual bidding process because of what it saw as a ` unique strategic opportunity to host the iaaf world championships for the first time in the usa ' .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+eugene failed last november in its bid to host the 2019 event , which was instead awarded to doha , but a recent presentation to the iaaf persuaded the governing body the city has what it takes to stage a world championships .
+
+
+
+====================
+Sample 3
+====================
+
+with just a bird , a gas lamp and a net , each morning , fisherman in china keep a special , thousand year old tradition alive . sailing peacefully across a river , the men fish without the aid of a rod with this unusual method , which was first practiced in 960 ad . the men , pictured in southern china , release a cormorant bird , which then dives into the water and retrieves a carp , returning it to the fisherman 's reed raft . with just a bird , a gas lamp and a net , each morning , fishermen in china keep a special , thousand year old tradition alive . the stunning images were captured on the river li in guilin , china , by a russian photographer called viktoriia rogotneva . the 45-year-old , from st petersburg , was captivated upon visiting the fishermen in the town . ` every fishermen has a reed raft , a few trained cormorants and a small source of light - usually a kerosene lamp , ' he said . ` in the morning the fishermen go to the river and let the cormorants go . the birds are very hungry and dive into the water to catch big carp . ' sailing peacefully across the river , the men men fish without the aid of a rod with this unusual method , first practiced in 960 ad . a man releases a cormorant bird , which then dives into the water and retrieves a carp , returning it to the fisherman 's reed raft . the fishermen quite literally just take the carp right out of the bird 's mouth after the hungry animals return with their haul . these breathtaking early morning images were captured by 45-year-old viktoriaa rogotneva from st petersburg , russia . ` the cormorants then return to the surface of the water , and the fishermen take the fish right out the bird 's beak , ' rogotneva added . the elderly fishermen of guiliin spend between two and three hours on the lake each every morning , and while cormorant fishing only produces about 4kg of carp per day , the men are determined to keep this special practice alive . to control the birds , the fishermen tie a ring near the base of the bird 's throat , which prevents them from swallowing any large fish , but allows them to eat smaller fish with no discomfort . the images were all shot on the river li in guilin , china , which is in the southern part of the country . heading out in the dawn 's light , each man is equipped only with a reed raft , a few trained cormorants and a small kerosene light source . the elderly fishermen spend anywhere between two to three hours per day on the lake , despite the low yields from cormorant fishing . on average , the men will only produce about 4kg of carp per day , but are still determined to keep this beautiful practice alive = . this fishermen bring up the birds from when they are tiny chicks , so the cormorant is more of a pet than a hunter . this way of fishing is ` absolutely ecologically safe , ' says rogotneva , who insists that the fishermen catch only as much as they need . rogotneva said : ` these fishermen bring up their birds from when they are very small chicks , so you can almost call the cormorant a pet , like you would a dog . ` it is an absolutely ecologically safe way of fishing . every fisherman just catches as much as he needs for his family and they are never greedy . ' i really enjoy looking for these unusual moments , they make for beautiful photos . '
+
+
+--------------------
+Reference
+--------------------
+elderly fishermen in guilin , china , keep the unusual , ancient tradition of cormorant bird fishing alive .  the bird , which they have often raised from a chick , dives into the water and retrieves a carp for its owner .  this is an ecologically safe way of fishing , as the birds are not harmed and the men only catch what they need . 
+
+
+--------------------
+Random@0.1
+--------------------
+the fishermen quite literally just take the carp right out of the bird 's mouth after the hungry animals return with their haul . the elderly fishermen spend anywhere between two to three hours per day on the lake , despite the low yields from cormorant fishing .
+
+
+--------------------
+Head@0.1
+--------------------
+with just a bird , a gas lamp and a net , each morning , fisherman in china keep a special , thousand year old tradition alive . sailing peacefully across a river , the men fish without the aid of a rod with this unusual method , which was first practiced in 960 ad .
+
+
+--------------------
+TextRank@0.1
+--------------------
+` the cormorants then return to the surface of the water , and the fishermen take the fish right out the bird 's beak , ' rogotneva added . the elderly fishermen of guiliin spend between two and three hours on the lake each every morning , and while cormorant fishing only produces about 4kg of carp per day , the men are determined to keep this special practice alive .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+the men , pictured in southern china , release a cormorant bird , which then dives into the water and retrieves a carp , returning it to the fisherman 's reed raft . the elderly fishermen of guiliin spend between two and three hours on the lake each every morning , and while cormorant fishing only produces about 4kg of carp per day , the men are determined to keep this special practice alive .
+
+
+--------------------
+USE-base@0.1
+--------------------
+the men , pictured in southern china , release a cormorant bird , which then dives into the water and retrieves a carp , returning it to the fisherman 's reed raft . the elderly fishermen of guiliin spend between two and three hours on the lake each every morning , and while cormorant fishing only produces about 4kg of carp per day , the men are determined to keep this special practice alive .
+
+
+--------------------
+USE-large@0.1
+--------------------
+the men , pictured in southern china , release a cormorant bird , which then dives into the water and retrieves a carp , returning it to the fisherman 's reed raft . the elderly fishermen of guiliin spend between two and three hours on the lake each every morning , and while cormorant fishing only produces about 4kg of carp per day , the men are determined to keep this special practice alive .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+the fishermen quite literally just take the carp right out of the bird 's mouth after the hungry animals return with their haul . the elderly fishermen of guiliin spend between two and three hours on the lake each every morning , and while cormorant fishing only produces about 4kg of carp per day , the men are determined to keep this special practice alive .
+
+
+
+====================
+Sample 4
+====================
+
+grant shapps was last night at the centre of extraordinary claims that he was doctoring wikipedia pages to promote himself at the expense of his political rivals . the tory party chairman is accused of deleting embarrassing references to his past from his own page in the online encyclopedia while putting unflattering updates on the pages of others . a furious mr shapps denied the claims , published by the guardian , describing them as an ` extreme dirty tricks campaign ' . david cameron defended mr shapps , saying that the party chairman is doing ' a great job ' while on the campaign trail today . scroll down for video . grant shapps , pictured campaigning with esther mcvey yesterday , has been accused of changing wikipedia pages to promote himself and damage rivals . mr shapps has denied the allegations claiming they were part of ` an extreme dirty tricks campaign ' wikipedia has suspended an anonymous user of the site , known only as ` contribsx ' , after finding evidence it said suggested the account was run either by mr shapps or under his ` clear direction ' . it cited a series of amendments made by the user to pages of the site , around one third of which involved removing embarrassing references on mr shapps 's own page . other changes included adding critical language to the pages of tory cabinet ministers including international development secretary justine greening and campaign chief lynton crosby . the timing and content of some of the edits appear to tally with instances when mr shapps clashed with the subject of the changes . the tories described the story as ` completely false and defamatory ' . last night mr shapps said : ` it 's categorically untrue . it 's absolutely nothing to do with me . it 's just ridiculous . it looks like an extreme dirty tricks campaign designed to do anything but talk about policies . ' but it emerged in 2012 that changes to mr shapps 's wikipedia page were made from computers in his constituency office . at the time , he said he had amended pages claiming he was ` a jehovah 's witness , agnostic or crashed a car into a school wall ' . a wikipedia account using the alias ` contribsx ' edited a number of pages linked to mr shapps and other prominent politicians . minister justine greening , left , and tory election supremo lynton crosby , right , were among those mentioned in the wikipedia edits . when mr cameron was asked if he has ` full confidence ' in mr shapps today , he replied : ` grant does a great job . he has made a very clear statement about this and i have got nothing to add to that . ' the conservative chairman told the bbc : ` this is one of the most bonkers stories i think i have seen during this election campaign . absolutely , totally without foundation . ` it seems to be based on the word of a single wikipedia anonymous editor who , for all i know , is a labour party apparatchik . ' an investigation by wikipedia claimed the contribsx account ` is a ` sockpuppet of grant shapps ' previous accounts on wikipedia ' . sockpuppet refers to a fake online identity used ` for an improper purpose ' and is banned on the site . among the changes revealed include information about miss greening , who had disagreed with mr shapps over his support for a third runway at heathrow . in september 2013 the user said she ` failed to vote in a critical parliamentary division about military action in syria ' as she failed to notice the division bell had sounded , despite being in the house of commons . the user also made edits on mr crosby in march and august last year , at times when there were reports of splits between the two men . mr shapps took the blame after the 2014 budget over a ` patronising ' picture he tweeted about cuts in beer tax and bingo which would help ` hardworking people do more of the things they enjoy ' . contribsx edited mr shapps ' wikipedia page to suggest he had unfairly taken the blame for the picture , which was the fault of mr crosby and chancellor george osborne . in september 2013 , contribsx added these passages to justine greening 's wikipedia entry , highlighting her opposition to the expansion of heathrow and an embarrassing incident in the house of commons . the user added the highlighted text about the gay marriage bill to dominic grieve 's page . mr shapps 's wikipedia page stated that he had edited the site ` removing negative information ' , as shown in the highlighted text top image , but contribsx changed it to cast the minister in a better light . a recent contribsx edit , on easter sunday this year , changed the page of karl turner , the shadow attorney general , adding a reference to the labour mp having ` admitted breaking house of commons rules by sending out invitations to a # 45-a-head labour party fundraising event from parliamentary email ' . two weeks earlier mr turner had called on prime minister david cameron to investigate mr shapps over his denials that he had continued to use the pseudonym michael green while he was an mp . wikipedia is like a normal encyclopedia but its pages can be created and edited online by anyone . volunteer administrators moderate the site and monitor changes . changes to pages create an audit trail which can be linked back to users . labour frontbencher jon ashworth said : ` this is another embarrassing episode in the saga of grant shapps . it 's about time we had some answers , from him and from david cameron who appointed him to run the tory campaign . ' liberal democrat campaign chairman paddy ashdown sent a light-hearted press release that read : ` grant is a wonderful guy - he is a credit to the conservative party , a fine sportsman and reads a book a day . we could all learn a lot from him . quite simply , a colossus . ' the press release noted that it had been ` edited by wikipedia user contribsx ' . mr shapps 's own wikipedia page was edited by contribsx in march 2014 to shift the blame for a controversial tweet on the budget to george osborne and lynton crosby ; the passage in question is pictured before and after the edit . a passage added to vince cable 's page by contribsx drew attention to his alleged disloyalty to nick clegg . the highlighted passage appeared on labour mp karl turner 's wikipedia page after it was edited by contribsx earlier this month . in a statement released last night , mr shapps said : ` it is untrue from start to finish , and was quite likely dreamt up by the labour press office . sadly it is typical of the smears coming from those who would rather not debate policy and substance . ' a spokesman from wikimedia uk , the uk charity that supports wikipedia , told the guardian : ` we would welcome any mps who choose to become editors , and are happy to provide training sessions to anyone who wants to learn . ` however , the wikipedia project is founded on trust , and anyone who tries to deceive our volunteers and readers in order to further their own ends should think very carefully about the morality of what they 're doing . eventually , the public will find out . ' the tory chairman who gave himself a false identity . tory chairman grant shapps is nicknamed the duracell bunny for his seemingly unstoppable energy and his willingness to appear on any tv show to defend the government . but it is another name -- michael green -- for which he has become infamous in recent years . green was an alter ego that mr shapps used to promote get rich quick products before he became an mp . the revelation that he had used the alias even prompted a man to change his name to michael green by deed poll to stand against mr shapps in his welwyn hatfield seat in next month 's election , in the hope of embarrassing him . grant shapps , pictured , created the alter ego michael green as part of a get-rich-quick scheme . it all adds to the perception of many of his political rivals that there is something not quite to be trusted about him . mr shapps , a 46-year-old father of three , was first elected in 2005 . five years later , he became a housing minister in the incoming coalition government . since september 2012 , the qualified pilot has been conservative party chairman , charged with masterminding a campaign to win the 2015 general election . his supporters say he is an effective media performer ; often wheeled out by party high command to defend the party 's policies . as fellow tory mp nick boles said : ` somebody said he 's the duracell bunny of the conservative party . i did laugh at that because it 's a rather apt description . ' a populist politician , who is a self-confessed fan of restaurant chain nandos , mr shapps is from a different background from many others in his cabinet , which is often perceived as being populated by public school toffs . born in watford , he was schooled at the local grammar school . his cousin is mick jones , guitarist of punk rock band the clash . mr shapps ' brother even played with jones in another band , big audio dynamite . mr shapps posted this controversial tweet after last year 's budget and was criticised for allegedly being patronising . mr shapps joined the jewish youth organisation bbyo and later became its national president . at the age of 20 he was in a coma for a week after being involved in a car crash in the us . a decade later he was diagnosed with hodgkin 's lymphoma , but went into full remission after chemotherapy . the future tory politician studied business and finance at manchester polytechnic , and upon leaving university he set up a successful printing business . later he started writing self-help guides for a website called howtocorp , advising people on how to get rich quick -- a job which has earned him a ` loadsamoney ' nickname . he wrote the books under an alias , michael green -- and a photograph of him wearing a badge with the name at a us conference came to light in 2012 . last month he had to admit that despite saying he had stopped using the name on election in 2005 , he was still using it in summer 2006 . three years ago , claims first came to light that he had allegedly altered his wikipedia entries ; changing sentences which he said were inaccurate -- such as that he was a jehovah 's witness . it emerged that changes were made from computers in his constituency office . and some have claimed he has followed and de-followed people on twitter to increase the number of his followers .
+
+
+--------------------
+Reference
+--------------------
+grant shapps has been accused of altering wikepedia pages of his rivals .  the tory party chairman is in charge of the party 's election campaign .  he has denied the claims calling them ` an extreme dirty tricks campaign '  david cameron stood up for shapps saying he is doing ' a great job ' 
+
+
+--------------------
+Random@0.1
+--------------------
+mr shapps , a 46-year-old father of three , was first elected in 2005 . ' an investigation by wikipedia claimed the contribsx account ` is a ` sockpuppet of grant shapps ' previous accounts on wikipedia ' . ' an investigation by wikipedia claimed the contribsx account ` is a ` sockpuppet of grant shapps ' previous accounts on wikipedia ' . i did laugh at that because it 's a rather apt description . we could all learn a lot from him . contribsx edited mr shapps ' wikipedia page to suggest he had unfairly taken the blame for the picture , which was the fault of mr crosby and chancellor george osborne . ' liberal democrat campaign chairman paddy ashdown sent a light-hearted press release that read : ` grant is a wonderful guy - he is a credit to the conservative party , a fine sportsman and reads a book a day . the highlighted passage appeared on labour mp karl turner 's wikipedia page after it was edited by contribsx earlier this month .
+
+
+--------------------
+Head@0.1
+--------------------
+grant shapps was last night at the centre of extraordinary claims that he was doctoring wikipedia pages to promote himself at the expense of his political rivals . the tory party chairman is accused of deleting embarrassing references to his past from his own page in the online encyclopedia while putting unflattering updates on the pages of others . a furious mr shapps denied the claims , published by the guardian , describing them as an ` extreme dirty tricks campaign ' . david cameron defended mr shapps , saying that the party chairman is doing ' a great job ' while on the campaign trail today . scroll down for video . grant shapps , pictured campaigning with esther mcvey yesterday , has been accused of changing wikipedia pages to promote himself and damage rivals . mr shapps has denied the allegations claiming they were part of ` an extreme dirty tricks campaign ' wikipedia has suspended an anonymous user of the site , known only as ` contribsx ' , after finding evidence it said suggested the account was run either by mr shapps or under his ` clear direction ' . it cited a series of amendments made by the user to pages of the site , around one third of which involved removing embarrassing references on mr shapps 's own page .
+
+
+--------------------
+TextRank@0.1
+--------------------
+david cameron defended mr shapps , saying that the party chairman is doing ' a great job ' while on the campaign trail today . grant shapps , pictured campaigning with esther mcvey yesterday , has been accused of changing wikipedia pages to promote himself and damage rivals . mr shapps has denied the allegations claiming they were part of ` an extreme dirty tricks campaign ' wikipedia has suspended an anonymous user of the site , known only as ` contribsx ' , after finding evidence it said suggested the account was run either by mr shapps or under his ` clear direction ' . ' but it emerged in 2012 that changes to mr shapps 's wikipedia page were made from computers in his constituency office . a wikipedia account using the alias ` contribsx ' edited a number of pages linked to mr shapps and other prominent politicians . contribsx edited mr shapps ' wikipedia page to suggest he had unfairly taken the blame for the picture , which was the fault of mr crosby and chancellor george osborne . mr shapps 's wikipedia page stated that he had edited the site ` removing negative information ' , as shown in the highlighted text top image , but contribsx changed it to cast the minister in a better light . mr shapps 's own wikipedia page was edited by contribsx in march 2014 to shift the blame for a controversial tweet on the budget to george osborne and lynton crosby ; the passage in question is pictured before and after the edit .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+mr shapps has denied the allegations claiming they were part of ` an extreme dirty tricks campaign ' wikipedia has suspended an anonymous user of the site , known only as ` contribsx ' , after finding evidence it said suggested the account was run either by mr shapps or under his ` clear direction ' . other changes included adding critical language to the pages of tory cabinet ministers including international development secretary justine greening and campaign chief lynton crosby . a wikipedia account using the alias ` contribsx ' edited a number of pages linked to mr shapps and other prominent politicians . contribsx edited mr shapps ' wikipedia page to suggest he had unfairly taken the blame for the picture , which was the fault of mr crosby and chancellor george osborne . mr shapps 's wikipedia page stated that he had edited the site ` removing negative information ' , as shown in the highlighted text top image , but contribsx changed it to cast the minister in a better light . a recent contribsx edit , on easter sunday this year , changed the page of karl turner , the shadow attorney general , adding a reference to the labour mp having ` admitted breaking house of commons rules by sending out invitations to a # 45-a-head labour party fundraising event from parliamentary email ' . mr shapps 's own wikipedia page was edited by contribsx in march 2014 to shift the blame for a controversial tweet on the budget to george osborne and lynton crosby ; the passage in question is pictured before and after the edit . the highlighted passage appeared on labour mp karl turner 's wikipedia page after it was edited by contribsx earlier this month .
+
+
+--------------------
+USE-base@0.1
+--------------------
+grant shapps was last night at the centre of extraordinary claims that he was doctoring wikipedia pages to promote himself at the expense of his political rivals . the tory party chairman is accused of deleting embarrassing references to his past from his own page in the online encyclopedia while putting unflattering updates on the pages of others . the tories described the story as ` completely false and defamatory ' . minister justine greening , left , and tory election supremo lynton crosby , right , were among those mentioned in the wikipedia edits . two weeks earlier mr turner had called on prime minister david cameron to investigate mr shapps over his denials that he had continued to use the pseudonym michael green while he was an mp . ' liberal democrat campaign chairman paddy ashdown sent a light-hearted press release that read : ` grant is a wonderful guy - he is a credit to the conservative party , a fine sportsman and reads a book a day . mr shapps 's own wikipedia page was edited by contribsx in march 2014 to shift the blame for a controversial tweet on the budget to george osborne and lynton crosby ; the passage in question is pictured before and after the edit . ' the tory chairman who gave himself a false identity .
+
+
+--------------------
+USE-large@0.1
+--------------------
+grant shapps was last night at the centre of extraordinary claims that he was doctoring wikipedia pages to promote himself at the expense of his political rivals . mr shapps has denied the allegations claiming they were part of ` an extreme dirty tricks campaign ' wikipedia has suspended an anonymous user of the site , known only as ` contribsx ' , after finding evidence it said suggested the account was run either by mr shapps or under his ` clear direction ' . a wikipedia account using the alias ` contribsx ' edited a number of pages linked to mr shapps and other prominent politicians . mr shapps 's wikipedia page stated that he had edited the site ` removing negative information ' , as shown in the highlighted text top image , but contribsx changed it to cast the minister in a better light . two weeks earlier mr turner had called on prime minister david cameron to investigate mr shapps over his denials that he had continued to use the pseudonym michael green while he was an mp . mr shapps 's own wikipedia page was edited by contribsx in march 2014 to shift the blame for a controversial tweet on the budget to george osborne and lynton crosby ; the passage in question is pictured before and after the edit . a passage added to vince cable 's page by contribsx drew attention to his alleged disloyalty to nick clegg . the revelation that he had used the alias even prompted a man to change his name to michael green by deed poll to stand against mr shapps in his welwyn hatfield seat in next month 's election , in the hope of embarrassing him .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+grant shapps was last night at the centre of extraordinary claims that he was doctoring wikipedia pages to promote himself at the expense of his political rivals . the tory party chairman is accused of deleting embarrassing references to his past from his own page in the online encyclopedia while putting unflattering updates on the pages of others . grant shapps , pictured campaigning with esther mcvey yesterday , has been accused of changing wikipedia pages to promote himself and damage rivals . mr shapps has denied the allegations claiming they were part of ` an extreme dirty tricks campaign ' wikipedia has suspended an anonymous user of the site , known only as ` contribsx ' , after finding evidence it said suggested the account was run either by mr shapps or under his ` clear direction ' . a wikipedia account using the alias ` contribsx ' edited a number of pages linked to mr shapps and other prominent politicians . two weeks earlier mr turner had called on prime minister david cameron to investigate mr shapps over his denials that he had continued to use the pseudonym michael green while he was an mp . the highlighted passage appeared on labour mp karl turner 's wikipedia page after it was edited by contribsx earlier this month . the revelation that he had used the alias even prompted a man to change his name to michael green by deed poll to stand against mr shapps in his welwyn hatfield seat in next month 's election , in the hope of embarrassing him .
+
+
+
+====================
+Sample 5
+====================
+
+it may look absurd , but a bizarre new dog grooming trend is beginning to take shape in taiwan . the craze involves having your pet pooch shaped into a sphere or a square - with the desired effect being a more eye-grabbing and clean-cut look . in a method reminiscent of edward scissorhands 's trimming of a hedge , canine hairdressers in the taiwanese capital taipei are giving particularly furry customers outlandish makeovers . scroll down for video . what a square ! a dog shows off taiwan 's bizarre new pet-grooming trend after having his fur cut in a square . hairdresser tain yeh , 42 , who runs a parlour in taipei said : ' i am aware of the trend although we do n't have much request for it here because it 's very difficult to keep the shape . ` it came about because people were always looking for more impressive haircuts , and somebody came up with the idea of shaping the dog like a hedge . ' pictures of doe-eyed dogs with their shapely new cuts have proved extremely popular online prompting more owners to seek out the custom salons . many are now opting for the cuts simply to get more likes and shares on social media sites . ms yeh added : ` the dogs do n't mind , and the owners keep coming back for more . this sort of haircut needs a lot more maintenance then the regular type . ` it is also not suitable for all breeds . the dog needs to have plenty of hair to play around with so that you can shape it around the face and body . ' willing customers ? two more recently-groomed pooches stare sad-eyed into the camera as they show off new hairstyles . getting the chop : two dogs grimace as their fur is trimmed into hedge-like circles in a dog-grooming parlour in taipei . the spherical look : this dog 's owner has opted for the circular cut offered by salons in taiwan . fetching ear muffs : many are now opting for the cuts simply to get more likes and shares on social media sites .
+
+
+--------------------
+Reference
+--------------------
+craze has taken off thanks to owners posting pictures on social media .  initial idea was to give the pets a more eye-grabbing and clean-cut look .  one dog salon worker in taipei has insisted that ` the dogs do n't mind ' 
+
+
+--------------------
+Random@0.1
+--------------------
+it may look absurd , but a bizarre new dog grooming trend is beginning to take shape in taiwan .
+
+
+--------------------
+Head@0.1
+--------------------
+it may look absurd , but a bizarre new dog grooming trend is beginning to take shape in taiwan .
+
+
+--------------------
+TextRank@0.1
+--------------------
+a dog shows off taiwan 's bizarre new pet-grooming trend after having his fur cut in a square .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+a dog shows off taiwan 's bizarre new pet-grooming trend after having his fur cut in a square .
+
+
+--------------------
+USE-base@0.1
+--------------------
+' pictures of doe-eyed dogs with their shapely new cuts have proved extremely popular online prompting more owners to seek out the custom salons .
+
+
+--------------------
+USE-large@0.1
+--------------------
+the spherical look : this dog 's owner has opted for the circular cut offered by salons in taiwan .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+` it came about because people were always looking for more impressive haircuts , and somebody came up with the idea of shaping the dog like a hedge .
+
+
+

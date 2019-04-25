@@ -1,0 +1,280 @@
+====================
+Sample 1
+====================
+
+kevin rebbie , 56 , of limerick township , pennsylvania , was arrested after a 15-year-old girl found a hidden camera in her bathroom that police were able to trace back to the man . a pennsylvania man was arrested after allegedly sexually abusing a girl in her home over a four-year period and filming the girl , now 15 , and others with a hidden camera in a bathroom . kevin rebbie , 56 , of limerick township , faces several charges , including aggravated indecent assault , unlawful contact with a minor , sexual abuse of children and invasion of privacy , the montgomery county district attorney 's office said . the investigation began when a 15-year-old girl found a hidden camera under the sink in a bathroom in her limerick township home in march , according to prosecutors . she told investigators that rebbie had been watching her for years when she was undressing and when he believed she was asleep . she added that beginning when she was nine years old up until she was 13 , rebbie would come into her bedroom while she was sleeping and molest her , according to philly.com . investigators found 41 videos from the hidden camera that included footage of the girl and others while they used the bathroom , 34 of which showed victims as they showered . rebbie uploaded the videos , some that included close-up images of children 's genitalia , to his computer to view later , prosecutors said . the videos were captured over a three - or four-year time period , according to prosecutors . rebbie admitted to filming several victims , including other juveniles , but had purchased the camera specifically so he could record the now-15-year-old victim while she undressed and showered , according to the pottstown mercury . ' i think it 's particularly horrific ... and particularly for a young child when they think they 're in the sanctity of their home , going through their teenage years , to be violated in the way that this young woman was violated it just goes beyond the boundaries of horrific . it 's just unfathomable , ' limerick police chief william albany told the mercury . the relationship between rebbie and the girl 's family is unknown . rebbie 's preliminary hearing is on may 1 and he is being held on a $ 500,000 bail .
+
+
+--------------------
+Reference
+--------------------
+kevin rebbie , 56 , of limerick township , pennsylvania , has been arrested .  he allegedly sexually abused a girl in her home and filmed her in bathroom .  the girl also claims rebbie watched her undress and when he thought she was sleeping .  investigators found 41 videos , 34 of which showed victims as they showered .  rebbie said that he purchased the camera specifically to watch the 15-year-old girl but captured other victims on film , too .  rebbie 's is being held on a $ 500,000 bail and will appear in court on may 1 . 
+
+
+--------------------
+Random@0.1
+--------------------
+a pennsylvania man was arrested after allegedly sexually abusing a girl in her home over a four-year period and filming the girl , now 15 , and others with a hidden camera in a bathroom .
+
+
+--------------------
+Head@0.1
+--------------------
+kevin rebbie , 56 , of limerick township , pennsylvania , was arrested after a 15-year-old girl found a hidden camera in her bathroom that police were able to trace back to the man .
+
+
+--------------------
+TextRank@0.1
+--------------------
+kevin rebbie , 56 , of limerick township , pennsylvania , was arrested after a 15-year-old girl found a hidden camera in her bathroom that police were able to trace back to the man .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+kevin rebbie , 56 , of limerick township , pennsylvania , was arrested after a 15-year-old girl found a hidden camera in her bathroom that police were able to trace back to the man .
+
+
+--------------------
+USE-base@0.1
+--------------------
+the investigation began when a 15-year-old girl found a hidden camera under the sink in a bathroom in her limerick township home in march , according to prosecutors .
+
+
+--------------------
+USE-large@0.1
+--------------------
+the investigation began when a 15-year-old girl found a hidden camera under the sink in a bathroom in her limerick township home in march , according to prosecutors .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+a pennsylvania man was arrested after allegedly sexually abusing a girl in her home over a four-year period and filming the girl , now 15 , and others with a hidden camera in a bathroom .
+
+
+
+====================
+Sample 2
+====================
+
+-lrb- cnn -rrb- with the announcement that e! will air a new documentary series this summer about bruce jenner 's transition from male to female , fans are eagerly awaiting bearing witness to the former olympian 's journey . the as yet not titled eight-part , one-hour series is set to premiere july 26 . jenner , who along with his family has starred in the hit e! reality series `` keeping up with the kardashians , '' recently went public with the fact that he is transgender . here are a few things we hope the new show will offer : . a closer look at jenner 's current relationship with his former wife . fans of `` keeping up with the kardashians '' often got to see the sometimes strained relationship between bruce and his wife kris . as the kardashian family matriarch who also manages her kids ' careers , kris butted heads with bruce over everything from their children to his desire for more privacy . the pair announced they had filed for divorce in september 2014 after some time of living apart . there has been plenty of speculation regarding kris jenner 's feelings about bruce 's transitioning though she tweeted her support after he made the announcement friday during an interview with abc 's diane sawyer . what role he will take in the transgender community . before he was a realty television star , jenner was a popular motivational speaker . he is already being hailed for bringing attention to the transgender community . `` bruce is incredibly courageous and an inspiration , and we are proud to be entrusted with this deeply personal and important story , '' said jeff olde , executive vice president of programming and development for e! `` this series will present an unfiltered look as bruce boldly steps into uncharted territory and is true to himself for the first time . '' according to e! jennifer finney boylan , who is the national co-chair of glaad , will serve as a consultant on jenner 's series . `` orange is the new black '' actress laverne cox , who is transgender , has also offered jenner her support . `` i think a lot of people tuned in expecting to see a spectacle , and they tuned in and saw a profoundly nuanced , complicated , beautiful human being , '' cox told msnbc 's janet mock . his relationship with his kids . jenner is extremely close with his children . he has six biological kids with former wives chrystie scott , linda thompson , and kris jenner . he also helped raise kris jenner 's four children -- kourtney , kim , khloe and robert kardashian -- from her first marriage . `` those are the ones i 'm concerned with and the only ones i do n't -- i ca n't allow , i ca n't let myself hurt them , '' jenner told sawyer during their interview about his fear in telling his children . many of his kids appear supportive of his transition and his two youngest , daughter kendall and kylie , released the following statement to abc about their father : `` we love our dad very much as he is an amazing father . we could n't ask for a better dad . he has the biggest heart and all we want for him is to be happy . if he 's happy , we 're happy . '' how fans will react . jenner has long been one of the world 's most popular olympic gold medalists . viewers of `` keeping up with the kardashians '' often praised him for being so level-headed amidst all the paparazzi-fueled chaos . but with his new series jenner will be taking center stage and venturing into completely new territory at a time when some still grapple with issues of gender and sexuality . he sounds like he is ready . `` we 're going to make a difference in the world with what we 're doing , and if the whole kardashian show gave me a foothold into that world , to be able to go out there and do something good , i got not problem with that , '' jenner told sawyer .
+
+
+--------------------
+Reference
+--------------------
+e! plans to air a new jenner reality show this summer .  it will follow his transition from male to female . 
+
+
+--------------------
+Random@0.1
+--------------------
+jennifer finney boylan , who is the national co-chair of glaad , will serve as a consultant on jenner 's series . before he was a realty television star , jenner was a popular motivational speaker . jenner is extremely close with his children .
+
+
+--------------------
+Head@0.1
+--------------------
+-lrb- cnn -rrb- with the announcement that e! will air a new documentary series this summer about bruce jenner 's transition from male to female , fans are eagerly awaiting bearing witness to the former olympian 's journey . the as yet not titled eight-part , one-hour series is set to premiere july 26 .
+
+
+--------------------
+TextRank@0.1
+--------------------
+will air a new documentary series this summer about bruce jenner 's transition from male to female , fans are eagerly awaiting bearing witness to the former olympian 's journey . there has been plenty of speculation regarding kris jenner 's feelings about bruce 's transitioning though she tweeted her support after he made the announcement friday during an interview with abc 's diane sawyer . `` orange is the new black '' actress laverne cox , who is transgender , has also offered jenner her support .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+fans of `` keeping up with the kardashians '' often got to see the sometimes strained relationship between bruce and his wife kris . as the kardashian family matriarch who also manages her kids ' careers , kris butted heads with bruce over everything from their children to his desire for more privacy . there has been plenty of speculation regarding kris jenner 's feelings about bruce 's transitioning though she tweeted her support after he made the announcement friday during an interview with abc 's diane sawyer .
+
+
+--------------------
+USE-base@0.1
+--------------------
+reality series `` keeping up with the kardashians , '' recently went public with the fact that he is transgender . jenner is extremely close with his children . he has six biological kids with former wives chrystie scott , linda thompson , and kris jenner .
+
+
+--------------------
+USE-large@0.1
+--------------------
+reality series `` keeping up with the kardashians , '' recently went public with the fact that he is transgender . there has been plenty of speculation regarding kris jenner 's feelings about bruce 's transitioning though she tweeted her support after he made the announcement friday during an interview with abc 's diane sawyer . jenner is extremely close with his children .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+reality series `` keeping up with the kardashians , '' recently went public with the fact that he is transgender . a closer look at jenner 's current relationship with his former wife . jenner is extremely close with his children .
+
+
+
+====================
+Sample 3
+====================
+
+manchester city have told jason denayer they want him to spend next season in the english championship . the belgian defender has been a revelation during his year-long loan move to celtic . already a pfa scotland young player of the year nominee , the belgian scooped the same honour at celtic 's annual awards dinner in glasgow on sunday . the 19-year-old had consistently stated he intended returning to his parent club this summer to fight for a first-team place but last week changed his tune to give ronny deila some hope of retaining his services for another season . jason denayer is set to return to england to spend a season on loan in the championship . at the time , denayer said : ` of course i would be happy to do that . i 've had a very good year here so far . ` i would be happy to come back but i will need to wait until the summer to see what is happening . i prefer just to focus on the present . ' sportsmail understands , however , that city will block any move by celtic to instigate another one-year deal . although they feel denayer is n't quite ready to push for a first-team place at the etihad , they want to see him spend a year in the english second tier in order to complete his footballing apprenticeship . the on-loan manchester city defender has been in impressive form for celtic since joining the club . the player recently become a full belgian international -- stepping into the breach when vincent kompany was red carded during a 1-0 win against israel in a euro 2016 qualifier . with virgil van dijk very much on southampton 's radar , deila faces the prospect of losing both of his centre-halves before the champions league qualifiers begin in july . celtic striker john guidetti , meanwhile , will discover on thursday if he is to be punished for singing an allegedly ` offensive ' song about the demise of old firm rivals rangers . ronny deila will be disappointed to lose denayer and he could lose virgil van dijk -lrb- right -rrb- as well . guidetti was issued with a notice of complaint last month after giving an interview to dutch tv show fc rijnmond . it is not clear if guidetti will appear before the hampden panel at thursday 's re-arranged hearing but celtic have already backed the player . in a statement issued last month , a spokesman for the parkhead outfit said : ` we are very surprised and disappointed that this has even found its way to an sfa judicial panel . john guidetti will be defending this charge . ' john guidetti faces disciplinary action after singing an offensive song about rivals rangers . guidetti made a sensational start to his celtic switch , scoring 11 goals in his first 12 games after moving north from the etihad stadium . but his form has been patchy since and he was left on the bench by boss ronny deila on sunday as the hoops took another step towards their fourth consecutive scottish premiership title with a 3-0 tannadice win over dundee united .
+
+
+--------------------
+Reference
+--------------------
+defender jason denayer will not be returning to celtic next season .  manchester city have decided he should play championship football .  denayer nominated for the pfa scotland player of the year award .  click here for all the latest celtic news . 
+
+
+--------------------
+Random@0.1
+--------------------
+it is not clear if guidetti will appear before the hampden panel at thursday 's re-arranged hearing but celtic have already backed the player . with virgil van dijk very much on southampton 's radar , deila faces the prospect of losing both of his centre-halves before the champions league qualifiers begin in july .
+
+
+--------------------
+Head@0.1
+--------------------
+manchester city have told jason denayer they want him to spend next season in the english championship . the belgian defender has been a revelation during his year-long loan move to celtic .
+
+
+--------------------
+TextRank@0.1
+--------------------
+the belgian defender has been a revelation during his year-long loan move to celtic . celtic striker john guidetti , meanwhile , will discover on thursday if he is to be punished for singing an allegedly ` offensive ' song about the demise of old firm rivals rangers .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+the 19-year-old had consistently stated he intended returning to his parent club this summer to fight for a first-team place but last week changed his tune to give ronny deila some hope of retaining his services for another season . celtic striker john guidetti , meanwhile , will discover on thursday if he is to be punished for singing an allegedly ` offensive ' song about the demise of old firm rivals rangers .
+
+
+--------------------
+USE-base@0.1
+--------------------
+manchester city have told jason denayer they want him to spend next season in the english championship . with virgil van dijk very much on southampton 's radar , deila faces the prospect of losing both of his centre-halves before the champions league qualifiers begin in july .
+
+
+--------------------
+USE-large@0.1
+--------------------
+the belgian defender has been a revelation during his year-long loan move to celtic . with virgil van dijk very much on southampton 's radar , deila faces the prospect of losing both of his centre-halves before the champions league qualifiers begin in july .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+manchester city have told jason denayer they want him to spend next season in the english championship . the belgian defender has been a revelation during his year-long loan move to celtic .
+
+
+
+====================
+Sample 4
+====================
+
+authorities in montgomery county have released the 911 call that led to two ` free range ' getting picked up and held by police and maryland cps for five hours over the weekend . the unnamed caller gave the operator a blow-by-blow account as he wandered behind rafi meitiv , 10 , and his sister dvora , 6 , in silver spring on sunday . the 7-minute call would reignite a controversy focused on those kids and their scientist parents , danielle and alexander meitiv , who espouse the hands-off parenting style . the caller , who was out walking his dog in the suburb adjacent to washington , dc , said he saw ` two kids that are unaccompanied , and they 've been walking around for probably about 20 minutes by themselves . ' scene : the 911 call that reignited the ` free-range ' parenting controversy for two maryland parents has been released and reveals that rafi meitiv , 10 , and his sister dvora , 6 , were picked up by police while walking through this vicinity of the washington , dc-adjacent suburb of silver spring on sunday . the operator asked , ` have you talked to them to see , you know , why are they just walking around by themselves ? ' ` no , no , they came up and asked to pet my dog , i let them , and that was it ... i do n't want to scare them , ' he said . the man continued to tail the children , who eventually did become frightened when they realized they were being followed , until police arrived . their parents danielle and alexander meitiv have been cited multiple times for allowing their kids to roam free in their suburban neighborhood . but the meitivs say authorities crossed a line over the weekend when they picked up rafi and dvora and held them nearly six hours without food before allowing them to reunite with their parents . picked up : officials seized dvora , 6 , -lrb- far left -rrb- and 10-year-old rafi -lrb- left , blue hat -rrb- on sunday in a maryland park . the parents danielle and alexander meitiv -lrb- right -rrb- have vowed to sue authorities responsible for keeping them in custody for six hours . picked up again : the meitivs say they were left to panic for hours by cps workers after their children -- who they raise with a so-called ` free-range ' approach -- were picked up by police for the second time in two months while walking down the street alone . attorney matthew dowd , of the firm wiley rein , is representing the meitivs and on tuesday sent a pointed letter regarding sunday 's events . rein wrote : . ` the actions of maryland cps and montgomery county police violate the fundamental rights parents have in raising their children . ` this fundamental , constitutional right of parents can not be infringed simply because certain governmental employees disagree with a parent 's reasoned decision on how to raise his or her children . ' the firm declined to say who the suit would be against , exactly , when asked by the washington post . however , the attorney has vowed to pursue ` all legal remedies ' to protect the rights of the maryland parents . the meitivs made headlines just before christmas when police found rafi and dvora walking the sidewalk on their own . ` besides the policeman pulling up ... no ' : asked if he was scared during the hours-long ordeal sunday , 10-year-old rafi admitted he was , but not because he 'd been left alone with his sister . free-range parenting is the name given to a style of raising kids in opposition to so-called ` helicopter parenting ' . ` helicopter parents ' are named for their habit of hovering over their offspring , micro-managing their lives in an attempt to keep them safe . however critics believe this creates under-confident , over-reliant children , while also causing the parents stress . free-range parents advocate a more hands-off approach , where children are allowed to go out and experience the world on their own . instead of constantly monitoring activities to make sure children are safe , the emphasis is put on adults assessing risk ahead of time , and equipping children with the skills to deal with danger themselves . on sunday , a concerned citizen reportedly called authorities once again after seeing the siblings unaccompanied near a neighborhood park around a third of a mile from their home . the children were picked up by police , who say they followed protocol by turning them over to cps . meanwhile , mrs meitiv tells fox 5 dc that cps workers left her and her husband to panic for hours before letting them know their kids were safe . what 's more , the elder child , rafi , insists the scariest part of the hours-long ordeal was being picked up by police . ` they kept the kids for hours , ' a shaken danielle meitiv told fox 5 after being reunited with them . ` it 's 10:30 at night . they 've been missing since 6 o'clock ... somebody called 911 and the police called cps and they decided to bring the kids here and they did n't call us . ' according to mrs. meitiv , the children were expected home no later than 6:30 . when 6:30 came and went , they became frantic . they would not receive a call from cps until 8pm . even then , they say they were n't reunited with their children or even told where they were for hours . in the interim , rafi tells fox 5 that initially he believed the responding police officer was simply offering them a lift . rafi said : . ` the policeman said ` we 'll give you a ride home ' when we were like two blocks away . and two and a half hours later , after sitting in the car two and a half hours , he said ` i 'll bring you home ' and , instead , he brought us here . ' ` here ' was child protective services , rafi said . and as he and his sister sat waiting to go home , their parents say ` upper management ' at cps was involved in keeping that from happening . only at 10:30 pm did mrs. meitiv say she was reunited with her children and only after promising not to let them off the leash . parenting style : the meitivs believe in giving children an unusual amount of independence from a young age . guarantees : as part of their free-range parenting philosophy , the meitivs make sure their children carry these badges in case someone worries and asks while they are out on the street . ` they made us sign a safety plan that says we will not leave them attended at all until they follow up , . ` and i 'm not gon na risk my kids being snatched again like this by cps . ' when questioned , the meitivs say they believe in a so-called ` free-range ' approach to parenting , which encourages independence from infancy . in march , the cps found the couple guilty of neglect for letting the children walk home from school alone . it meant the agency would start a file on the family 's activities and whereabouts for at least five years . the meitivs hit back at the ruling , insisting they would continue to bring up their own children as they see fit - whatever the consequences . unsubstantiated child neglect is not a criminal charge , but is in most cases a prelude to such charges . it usually comes when the cps has deemed parents to have neglected their children , but has insufficient information or witnesses to press charges or take action .
+
+
+--------------------
+Reference
+--------------------
+police seized rafi , 10 , and dvora , 6 , in a maryland park on sunday and their parents say they were n't reunited by cps for hours .  scientists danielle and alexander meitiv believe in ` free range parenting ' meaning the children are afforded total independence from infancy .  the meitivs were found guilty of neglect in march . after sunday 's incident they were forced sign a paper pledging not to leave them unattended . 
+
+
+--------------------
+Random@0.1
+--------------------
+on sunday , a concerned citizen reportedly called authorities once again after seeing the siblings unaccompanied near a neighborhood park around a third of a mile from their home . only at 10:30 pm did mrs. instead of constantly monitoring activities to make sure children are safe , the emphasis is put on adults assessing risk ahead of time , and equipping children with the skills to deal with danger themselves . picked up again : the meitivs say they were left to panic for hours by cps workers after their children -- who they raise with a so-called ` free-range ' approach -- were picked up by police for the second time in two months while walking down the street alone . it usually comes when the cps has deemed parents to have neglected their children , but has insufficient information or witnesses to press charges or take action .
+
+
+--------------------
+Head@0.1
+--------------------
+authorities in montgomery county have released the 911 call that led to two ` free range ' getting picked up and held by police and maryland cps for five hours over the weekend . the unnamed caller gave the operator a blow-by-blow account as he wandered behind rafi meitiv , 10 , and his sister dvora , 6 , in silver spring on sunday . the 7-minute call would reignite a controversy focused on those kids and their scientist parents , danielle and alexander meitiv , who espouse the hands-off parenting style . the caller , who was out walking his dog in the suburb adjacent to washington , dc , said he saw ` two kids that are unaccompanied , and they 've been walking around for probably about 20 minutes by themselves . ' scene : the 911 call that reignited the ` free-range ' parenting controversy for two maryland parents has been released and reveals that rafi meitiv , 10 , and his sister dvora , 6 , were picked up by police while walking through this vicinity of the washington , dc-adjacent suburb of silver spring on sunday .
+
+
+--------------------
+TextRank@0.1
+--------------------
+' scene : the 911 call that reignited the ` free-range ' parenting controversy for two maryland parents has been released and reveals that rafi meitiv , 10 , and his sister dvora , 6 , were picked up by police while walking through this vicinity of the washington , dc-adjacent suburb of silver spring on sunday . but the meitivs say authorities crossed a line over the weekend when they picked up rafi and dvora and held them nearly six hours without food before allowing them to reunite with their parents . picked up again : the meitivs say they were left to panic for hours by cps workers after their children -- who they raise with a so-called ` free-range ' approach -- were picked up by police for the second time in two months while walking down the street alone . meanwhile , mrs meitiv tells fox 5 dc that cps workers left her and her husband to panic for hours before letting them know their kids were safe . guarantees : as part of their free-range parenting philosophy , the meitivs make sure their children carry these badges in case someone worries and asks while they are out on the street .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+authorities in montgomery county have released the 911 call that led to two ` free range ' getting picked up and held by police and maryland cps for five hours over the weekend . ' scene : the 911 call that reignited the ` free-range ' parenting controversy for two maryland parents has been released and reveals that rafi meitiv , 10 , and his sister dvora , 6 , were picked up by police while walking through this vicinity of the washington , dc-adjacent suburb of silver spring on sunday . but the meitivs say authorities crossed a line over the weekend when they picked up rafi and dvora and held them nearly six hours without food before allowing them to reunite with their parents . picked up again : the meitivs say they were left to panic for hours by cps workers after their children -- who they raise with a so-called ` free-range ' approach -- were picked up by police for the second time in two months while walking down the street alone . meanwhile , mrs meitiv tells fox 5 dc that cps workers left her and her husband to panic for hours before letting them know their kids were safe .
+
+
+--------------------
+USE-base@0.1
+--------------------
+picked up again : the meitivs say they were left to panic for hours by cps workers after their children -- who they raise with a so-called ` free-range ' approach -- were picked up by police for the second time in two months while walking down the street alone . ` the actions of maryland cps and montgomery county police violate the fundamental rights parents have in raising their children . the children were picked up by police , who say they followed protocol by turning them over to cps . somebody called 911 and the police called cps and they decided to bring the kids here and they did n't call us . in march , the cps found the couple guilty of neglect for letting the children walk home from school alone .
+
+
+--------------------
+USE-large@0.1
+--------------------
+on sunday , a concerned citizen reportedly called authorities once again after seeing the siblings unaccompanied near a neighborhood park around a third of a mile from their home . the children were picked up by police , who say they followed protocol by turning them over to cps . they would not receive a call from cps until 8pm . and as he and his sister sat waiting to go home , their parents say ` upper management ' at cps was involved in keeping that from happening . in march , the cps found the couple guilty of neglect for letting the children walk home from school alone .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+picked up again : the meitivs say they were left to panic for hours by cps workers after their children -- who they raise with a so-called ` free-range ' approach -- were picked up by police for the second time in two months while walking down the street alone . the children were picked up by police , who say they followed protocol by turning them over to cps . somebody called 911 and the police called cps and they decided to bring the kids here and they did n't call us . and as he and his sister sat waiting to go home , their parents say ` upper management ' at cps was involved in keeping that from happening . in march , the cps found the couple guilty of neglect for letting the children walk home from school alone .
+
+
+
+====================
+Sample 5
+====================
+
+it has been 40 years since the historic evacuation of the of saigon as the north vietnamese army descended upon the city , and among the many stories of heroism and bravery is that of a father who piloted a military helicopter to fly his family to safety . ba van nguyen was able to fly a ch-47 chinook , the largest helicopter in the south vietnamese army , with his three young children and wife out of the city and into the south china sea where they were all ultimately saved by the uss kirk . this after nguyen somehow managed to pilot the helicopter while getting out of his flight suit and jumping into the ocean just seconds before it crashed - all on his own . scroll down for videos . histo4ric : ba van nguyen piloted a military helicopter -lrb- above -rrb- on his own to save his family during the fall of saigon on april 30 , 1975 . saved : he flew towards the uss kirk which was too small to allow the helicopter to land , and so he hoovered over as his family -lrb- daughter circled in red -rrb- safely jumped out . helping hand : sailors on the ship caught the family -lrb- above -rrb- as they jumped out . in an interview with cnn , some members of the family are revealing what happened on that historic day , and their lives in the years after . they were also part of the pbs special , the last days of vietnam . on april 29 , 1975 , nguyen moved his family to his mother-in-law 's house , telling them he would be back the next day in the chinook , and that they would hear him coming when he was close . ` if you hear a chinook coming , get ready , ' nguyen told his wife . when he arrived later that morning , his family and a few friends got on - as gunfire from the communist forces grew louder and louder as they came closer to the city - and flew out towards the water . shortly after however , they realized they were running low on fuel , and that is when nguyen reached out to the kirk asking for permission to land . ' i must land or crash into the sea , ' nguyen said . ` please help us . ' bravery : nguyen then flew back out to sea -lrb- above -rrb- and jumped from the helicopter . safe : he managed to avoid the large amounts of shrapnel -lrb- above -rrb- when the plan crashed . heading back : a motorboat soon grabbed him from the sea -lrb- above -rrb- as he wore just a shirt and his boxers . the kirk however was not large enough to withstand the force of such a large helicopter , which would likely sink the ship and cause the death of everyone onboard . and so it was decided that nguyen would at least try and save his family . he hoovered over the ship as every passenger jumped onto the deck and were caught by sailors , including his wife and three young children . that is when he went back out to sea and managed to do the impossible and somehow pilot alone , get out of his suit and jump into the water seconds before the helicopter crashed and sent shrapnel flying everywhere . seconds later , he appeared in the water , wearing nothing but his boxer shorts and a shirt . hos one possession , some gold he had in his pocket , had fell out and sunk in the south china sea . ` we could n't figure out how he did it ; he was a houdini , ' said hugh doyle , the chief engineering officer . a motorboat was sent out to retrieve him , and moments later he was reunited with his family . the nguyen family would be part of the 30,000 south vietnamese refugees ultimately rescued by the kirk . ` it was a happy ending to a shi ** y war , ' said kent chipman , one of the sailors on the kirk . unbelievable : nguyen somehow managed to operate the plane and it 's intricate system -lrb- above -rrb- alone after everyone jumped . over : ` it was a happy ending to a shi ** y war , ' said kent chipman , one of the sailors on the kirk of nguyen 's -lrb- above -rrb- feat . that was just the beginning for nguyen though , who now had to start over in america and try to support his family . he did not know the language and he had no money , but he was able to eventually land a job as a technician at boeing in seattle . according to his children he was strict , but also self-sufficient and proud , getting the family off government assistance after just a few months and encouraging hard work above all else . ` your mother and i came to the united states with nothing but my drawers , ' he would tell his children . ` look at where we are today . we are not wealthy . but we are not poor . ' he was reunited with the crew from the uss kirk in 2009 , finally revealing his identity after keeping it secret for years , and awarded an air medal for bravery . ` he was staring at me and i was staring at him . he knew and i just knew , ' said chipman of the emotional reunion , this despite the fact that nguyen was already in the throes of alzheimer 's . it was then that his children were able to see just what their father had accomplished as footage of the day was shared by some of the men who had filmed the incident . then , three years later , following a remarkable life , nguyen passed away . he was 73-years-old .
+
+
+--------------------
+Reference
+--------------------
+ba van nguyen piloted a military helicopter on his own to save his family during the fall of saigon on april 29 , 1975 .  nguyen flew the helicopter to the south china sea , but had to evacuate everyone when fuel ran low .  he flew towards the uss kirk which was too small to allow the helicopter to land , and so he hoovered over as his family safely jumped out .  he then flew back out to sea and jumped from the helicopter seconds before it crashed into the sea .  he survived the crash and was reunited with his family onboard .  he kept his identity a secret until a 2009 ceremony commemorating the event . 
+
+
+--------------------
+Random@0.1
+--------------------
+` look at where we are today . ` it was a happy ending to a shi ** y war , ' said kent chipman , one of the sailors on the kirk . heading back : a motorboat soon grabbed him from the sea -lrb- above -rrb- as he wore just a shirt and his boxers . ` your mother and i came to the united states with nothing but my drawers , ' he would tell his children .
+
+
+--------------------
+Head@0.1
+--------------------
+it has been 40 years since the historic evacuation of the of saigon as the north vietnamese army descended upon the city , and among the many stories of heroism and bravery is that of a father who piloted a military helicopter to fly his family to safety . ba van nguyen was able to fly a ch-47 chinook , the largest helicopter in the south vietnamese army , with his three young children and wife out of the city and into the south china sea where they were all ultimately saved by the uss kirk . this after nguyen somehow managed to pilot the helicopter while getting out of his flight suit and jumping into the ocean just seconds before it crashed - all on his own . scroll down for videos .
+
+
+--------------------
+TextRank@0.1
+--------------------
+ba van nguyen was able to fly a ch-47 chinook , the largest helicopter in the south vietnamese army , with his three young children and wife out of the city and into the south china sea where they were all ultimately saved by the uss kirk . histo4ric : ba van nguyen piloted a military helicopter -lrb- above -rrb- on his own to save his family during the fall of saigon on april 30 , 1975 . saved : he flew towards the uss kirk which was too small to allow the helicopter to land , and so he hoovered over as his family -lrb- daughter circled in red -rrb- safely jumped out . ' bravery : nguyen then flew back out to sea -lrb- above -rrb- and jumped from the helicopter .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+ba van nguyen was able to fly a ch-47 chinook , the largest helicopter in the south vietnamese army , with his three young children and wife out of the city and into the south china sea where they were all ultimately saved by the uss kirk . histo4ric : ba van nguyen piloted a military helicopter -lrb- above -rrb- on his own to save his family during the fall of saigon on april 30 , 1975 . saved : he flew towards the uss kirk which was too small to allow the helicopter to land , and so he hoovered over as his family -lrb- daughter circled in red -rrb- safely jumped out . over : ` it was a happy ending to a shi ** y war , ' said kent chipman , one of the sailors on the kirk of nguyen 's -lrb- above -rrb- feat .
+
+
+--------------------
+USE-base@0.1
+--------------------
+it has been 40 years since the historic evacuation of the of saigon as the north vietnamese army descended upon the city , and among the many stories of heroism and bravery is that of a father who piloted a military helicopter to fly his family to safety . ba van nguyen was able to fly a ch-47 chinook , the largest helicopter in the south vietnamese army , with his three young children and wife out of the city and into the south china sea where they were all ultimately saved by the uss kirk . saved : he flew towards the uss kirk which was too small to allow the helicopter to land , and so he hoovered over as his family -lrb- daughter circled in red -rrb- safely jumped out . a motorboat was sent out to retrieve him , and moments later he was reunited with his family .
+
+
+--------------------
+USE-large@0.1
+--------------------
+ba van nguyen was able to fly a ch-47 chinook , the largest helicopter in the south vietnamese army , with his three young children and wife out of the city and into the south china sea where they were all ultimately saved by the uss kirk . this after nguyen somehow managed to pilot the helicopter while getting out of his flight suit and jumping into the ocean just seconds before it crashed - all on his own . saved : he flew towards the uss kirk which was too small to allow the helicopter to land , and so he hoovered over as his family -lrb- daughter circled in red -rrb- safely jumped out . ' bravery : nguyen then flew back out to sea -lrb- above -rrb- and jumped from the helicopter .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+ba van nguyen was able to fly a ch-47 chinook , the largest helicopter in the south vietnamese army , with his three young children and wife out of the city and into the south china sea where they were all ultimately saved by the uss kirk . ' bravery : nguyen then flew back out to sea -lrb- above -rrb- and jumped from the helicopter . he hoovered over the ship as every passenger jumped onto the deck and were caught by sailors , including his wife and three young children . a motorboat was sent out to retrieve him , and moments later he was reunited with his family .
+
+
+

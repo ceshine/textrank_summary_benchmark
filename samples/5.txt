@@ -1,0 +1,280 @@
+====================
+Sample 1
+====================
+
+scientists are baffled after discovering a rare deep sea oarfish had washed up on a salt marsh in new zealand . the serpent like specimen was found by a local man at the entrance of the otago harbour , in dunedin on thursday . samples of the bizaree creature , known to swim vertically as well self-amputate its own tail , were sent to see otago museum for testing . department of conservation service manager david agnew pictured with a three-metre oarfish which washed up at the entrance of the otago harbour on thursday . department of conservation service manager david agnew told daily mail australia he had never seen anything like it . ` i was in the area when a local man called me and said he had found a strange looking fish on his morning walk . it was unlike anything i had ever seen . ' ` it must have just washed up and it was very fresh . it 's a very weird looking creature . instead of scales it has this smooth skin , like tinfoil , and if you rubbed it the silver would come onto your hand . ' mr agnew snapped some images and sent them off to the university of otago . ` they got back to me very quickly to say it was an oarfish , which i had never heard of . it 's incredibly rare to see them in new zealand . ' samples of the deep sea fish , known to swim vertically as well self-amputate its own tail , were sent to see otago museum for testing . the bizarre deep sea creatures are known to swim vertically as well as eating sections of their own tail . the fish , which can grow to eleven metres in length , are are known to eat of sections of their own tail . scientists have been unable to explain why they self-amputate , but some have proposed it is a form of protection . the frightening appearance of the fish means they have have been associated with various myths , including people mistaking them for sea-serpents . it has even been suggested that the loch ness monster was an oarfish . the frightening appearance of the fish has led to some people mistaking them for mythical sea-serpents . otago museum later took tissue and organ samples of the elusive fish in a bid to find out what caused it to be washed ashore . ` oarfish are typically often found hundreds of metres underwater . it 's likely this fish was moved here from a very strong current , ' mr agnew said .
+
+
+--------------------
+Reference
+--------------------
+the three-metre oarfish washed up on a salt marsh on the otago harbour .  the deep sea creature swims vertically and eats sections of its own tail .  its frightening appearance has seen people mistake it for a sea-serpent .  tissue samples of the fish were sent to see otago museum for testing . 
+
+
+--------------------
+Random@0.1
+--------------------
+` they got back to me very quickly to say it was an oarfish , which i had never heard of . ` they got back to me very quickly to say it was an oarfish , which i had never heard of .
+
+
+--------------------
+Head@0.1
+--------------------
+scientists are baffled after discovering a rare deep sea oarfish had washed up on a salt marsh in new zealand . the serpent like specimen was found by a local man at the entrance of the otago harbour , in dunedin on thursday .
+
+
+--------------------
+TextRank@0.1
+--------------------
+department of conservation service manager david agnew pictured with a three-metre oarfish which washed up at the entrance of the otago harbour on thursday . ' samples of the deep sea fish , known to swim vertically as well self-amputate its own tail , were sent to see otago museum for testing .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+department of conservation service manager david agnew pictured with a three-metre oarfish which washed up at the entrance of the otago harbour on thursday . ' samples of the deep sea fish , known to swim vertically as well self-amputate its own tail , were sent to see otago museum for testing .
+
+
+--------------------
+USE-base@0.1
+--------------------
+the serpent like specimen was found by a local man at the entrance of the otago harbour , in dunedin on thursday . ' samples of the deep sea fish , known to swim vertically as well self-amputate its own tail , were sent to see otago museum for testing .
+
+
+--------------------
+USE-large@0.1
+--------------------
+' samples of the deep sea fish , known to swim vertically as well self-amputate its own tail , were sent to see otago museum for testing . otago museum later took tissue and organ samples of the elusive fish in a bid to find out what caused it to be washed ashore .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+the frightening appearance of the fish means they have have been associated with various myths , including people mistaking them for sea-serpents . the frightening appearance of the fish has led to some people mistaking them for mythical sea-serpents .
+
+
+
+====================
+Sample 2
+====================
+
+tony blair yesterday faced accusations of ` megalomania ' over an interview in which he vowed to set up his own ` leaders club ' of ex-statesmen -- and appeared to dismiss the need for democracy . the ex-pm said he wanted to create a ` cadre ' of former leaders to advise governments , saying : ` you can get some of these guys who are fantastic executors . why not use their talents and their experience ? ' he added : ` why not come and help the president of this country or the prime minister of that country ? ' scroll down for video . tony blair on the cover of newsweek . the former prime minister said his ideas of leadership were ` close to a benevolent dictatorship ' in the profile in the american magazine newsweek , mr blair also praised the authoritarian military regime in egypt , which has been accused of human rights abuses , saying : ` yes , democracy is important , but democracy is not on its own sufficient . you need effective government taking effective decisions . ' the article -- which described mr blair 's ideas of leadership as ` close to a benevolent dictatorship ' -- added that mr blair had concluded from the foot-and-mouth crisis of 2001 , when the army slaughtered ten million sheep and cattle , that soldiers were better at emergencies than governments . when asked about his future work plans , he grandly announced : ` i 've done british . i suppose where i think i can make most difference is on a global level , working on things that had interested me as prime minister but that i was not able to devote myself to . ' mr blair , who made his first intervention in the election campaign last week with a speech backing ed miliband and warning about the risks of leaving the european union , said that he hoped to stay active in both politics and business well into his 90s . blair in his old constituency giving a talk at the xcel centre in county durham in support of ed miliband . he said he hoped to stay active in both politics and business well into his 90s . explaining why he had no plans to retire , mr blair said : ` i 've got decades . i want to be seeing someone when i 'm 91 after having had medical tests which show i 'm getting younger . the thought of actually retiring is not ... look , you have got to have some self-awareness of these things . tory mp andrew bridgen has branded blair a ` megalomaniac ' for his newsweek remarks . ` and i just know that if i do that , it would literally take me about three days before i was bored out of my mind . took to drink or something . ' the 61-year-old has been working as a middle east peace envoy while picking up international consultancy work that earns him millions of pounds a year . talking about the group of ex-leaders he hoped to deploy in his business , mr blair suggested that only those who had risen to the top of their countries could properly relate to each other . he said : ` the moment i 'm talking to a new leader and i 'm describing what i felt and what the challenges were , there 's a total and instant empathy , an immediate locking on to each other ... and i know what it 's like because i 've sat in the decision-making seat . ' last night , tory mp andrew bridgen claimed that mr blair 's words suggested he has ` completely lost the plot ' . mr bridgen added : ` david cameron recently announced that he would not serve a third term , on the grounds that all prime ministers go a bit mad after ten years . ` it is becoming increasingly clear that mr blair 's decade in downing street has indeed left its mark , and he is now displaying the distinct signs of megalomania . '
+
+
+--------------------
+Reference
+--------------------
+vowed to set up exclusive club of ex-statesman in newsweek interview .  described his ideas of leadership as ` close to a benevolent dictatorship '  hopes to stay active in both politics and business well into his 90s .  tory mp andrew bridgen claimed mr blair came across a ` megalomaniac ' 
+
+
+--------------------
+Random@0.1
+--------------------
+look , you have got to have some self-awareness of these things . ` it is becoming increasingly clear that mr blair 's decade in downing street has indeed left its mark , and he is now displaying the distinct signs of megalomania .
+
+
+--------------------
+Head@0.1
+--------------------
+tony blair yesterday faced accusations of ` megalomania ' over an interview in which he vowed to set up his own ` leaders club ' of ex-statesmen -- and appeared to dismiss the need for democracy . the ex-pm said he wanted to create a ` cadre ' of former leaders to advise governments , saying : ` you can get some of these guys who are fantastic executors .
+
+
+--------------------
+TextRank@0.1
+--------------------
+the former prime minister said his ideas of leadership were ` close to a benevolent dictatorship ' in the profile in the american magazine newsweek , mr blair also praised the authoritarian military regime in egypt , which has been accused of human rights abuses , saying : ` yes , democracy is important , but democracy is not on its own sufficient . explaining why he had no plans to retire , mr blair said : ` i 've got decades .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+the former prime minister said his ideas of leadership were ` close to a benevolent dictatorship ' in the profile in the american magazine newsweek , mr blair also praised the authoritarian military regime in egypt , which has been accused of human rights abuses , saying : ` yes , democracy is important , but democracy is not on its own sufficient . ' the article -- which described mr blair 's ideas of leadership as ` close to a benevolent dictatorship ' -- added that mr blair had concluded from the foot-and-mouth crisis of 2001 , when the army slaughtered ten million sheep and cattle , that soldiers were better at emergencies than governments .
+
+
+--------------------
+USE-base@0.1
+--------------------
+' mr blair , who made his first intervention in the election campaign last week with a speech backing ed miliband and warning about the risks of leaving the european union , said that he hoped to stay active in both politics and business well into his 90s . mr bridgen added : ` david cameron recently announced that he would not serve a third term , on the grounds that all prime ministers go a bit mad after ten years .
+
+
+--------------------
+USE-large@0.1
+--------------------
+' mr blair , who made his first intervention in the election campaign last week with a speech backing ed miliband and warning about the risks of leaving the european union , said that he hoped to stay active in both politics and business well into his 90s . explaining why he had no plans to retire , mr blair said : ` i 've got decades .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+' mr blair , who made his first intervention in the election campaign last week with a speech backing ed miliband and warning about the risks of leaving the european union , said that he hoped to stay active in both politics and business well into his 90s . explaining why he had no plans to retire , mr blair said : ` i 've got decades .
+
+
+
+====================
+Sample 3
+====================
+
+a woman told she was infertile after undergoing gruelling cancer treatment has spoken of her joy at giving birth to a baby boy . doctors told cara newton , 32 , from fleet , hampshire , she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . while mrs newton and her husband , chris , 34 , were relieved that chemotherapy had worked , they were devastated to be told they would never have a family of their own . some chemotherapy drugs permanently stop the ovaries from producing eggs . this means a woman can no longer get pregnant and may have symptoms of the menopause , as mrs newton did . cara newton , 32 -lrb- with husband chris -rrb- , was told she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . to her utter surprise , she conceived baby sebastian naturally . mrs newton was diagnosed with ewing 's sarcoma - a rare type of bone cancer - in april 2009 . she had to undergo several rounds of chemotherapy which doctors said would destroy her fertility . after ivf failed , the couple feared they would never become parents . but 10 months later they were astounded to discover mrs newton had become pregnant naturally with baby sebastian , who was born last april . the couple tried ivf using a donor egg but when that failed , they feared the worst . then 10 months later , to their utter surprise , mrs newton became pregnant naturally with baby sebastian , who was born last april . she said : ' i was heartbroken when doctors told me i had zero chance of ever becoming a mum . ` chemotherapy had taken my hair , made me sick and plummeted by body into early menopause . ' i had always wanted children but my hopes of having my own family had been destroyed overnight . ' she added : ` chris and i decided to try ivf using a donor egg . even though the baby would n't biologically be mine , at least i would experience pregnancy and we would become parents . ' ` when it failed i was gutted , but just months later i fell pregnant naturally , it was a dream come true . we had to keep pinching ourselves to check it was real . ' mrs newton was diagnosed with ewing 's sarcoma - a rare type of bone cancer - in april 2009 . she had become concerned after suffering from pain in her leg - something she first thought was a pulled a muscle . but an mri confirmed her worst fears - she had bone cancer and could lose her leg . she said : ' i was terrified when i heard the word `` cancer '' and the amount of treatment i would need . ' during surgery , mrs newton had 13cm of bone removed from her femur , which was replaced with a metal internal prosthesis . mrs newton had 13cm of bone removed from her femur , which was replaced with a metal internal prosthesis . she also underwent multiple rounds of chemotherapy , all the time worrying she would lose her leg . she said : ' i ended up in intensive care a couple of times as the chemotherapy made me so ill that my body could n't cope with the treatment . chemotherapy can stop a woman 's ovaries from working either temporarily or possibly permanently . the extend of the damage on fertility depends on the drugs and doses a patient receives . some chemotherapy drugs are also more likely than others to cause infertility . permanent infertility is more likely if a patient have higher doses of the drugs . it is also more likely in older women , especially those nearing the age where they would naturally have a menopause . some chemotherapy drugs permanently stop the ovaries from producing eggs . if this happens , a woman can no longer get pregnant and may have symptoms of the menopause . while it is not as easy for women to preserve their fertility as it is for men , but there are ways of doing it , such as freezing embryos , freezing eggs or freezing ovarian tissue . these techniques are done before the chemotherapy starts and involve having some eggs collected . source : cancer research uk . ' i was in a situation where i had to continue with chemotherapy or the cancer would kill me - but at times it was a risk that the chemo could kill me . it was terrifying . ' it was the support of her now husband that got her through the ordeal , she says . ` chris was my rock throughout it all and he proposed to me when i finished treatment in 2010 but i wanted to wait until my hair grew back before we got married , ' she said . after marrying the following year , the couple were overjoyed to be told mrs newton was in remission - and they turned their thoughts to starting a family . but the gruelling treatment mrs newton had undergone severely hindered their chance of conceiving . ` the treatment stopped us from trying ivf through using a donor egg straight away , ' she said . ` and when it failed in october 2012 and i fought off two serious infections that could have cost me my leg , i felt as though i would never become a mum . ' with mrs newton on strong medication until july 2013 , they were unable to try for a baby . ` so when i fell pregnant naturally in august we both felt like it was a complete miracle , ' she said . ` being a mum to seb is the best thing in the world , chris and i finally have the perfect family we have always wanted . ' she added : ` if someone could have told me five years ago that i would keep my leg , by cancer free and become a mum i would never have believed them . ' she said : ` when i fell pregnant naturally , it was a dream come true . we had to keep pinching ourselves to check it was real ' with sebastian now a year old , she said : ` being a mum to seb is the best thing in the world , chris and i finally have the perfect family we have always wanted ' she has now shared her story will give other women hope . ' i hope my story shows other women who have battled cancer that despite going through the menopause after chemotherapy , that miracles do happen and that one day they could have a baby too . ' mrs newton has also been supported throughout her illness by the bone cancer research trust . julie harrington , bone cancer research trust chief executive , said : ` finding out you have primary bone cancer is devastating enough but to be told you may never have children as a result is a real shock . ` cara has shown incredible bravery and strength throughout her journey and is now blessed to have a beautiful baby boy . ' ` every year in the uk and ireland 600 families will be affected by this brutal disease which leaves long-lasting physical and emotional scars , even after treatment . ` cara 's story gives a ray of hope to others through their darkest times and we wish her and her husband all the very best for their new life as parents . '
+
+
+--------------------
+Reference
+--------------------
+cara newton , 32 , was told she was infertile after undergoing chemotherapy .  was diagnosed with the rare bone cancer ewing 's sarcoma in 2009 .  some chemotherapy drugs permanently stop the ovaries producing eggs .  after ivf failed , she was overjoyed to conceive baby sebastian naturally . 
+
+
+--------------------
+Random@0.1
+--------------------
+julie harrington , bone cancer research trust chief executive , said : ` finding out you have primary bone cancer is devastating enough but to be told you may never have children as a result is a real shock . after marrying the following year , the couple were overjoyed to be told mrs newton was in remission - and they turned their thoughts to starting a family . she said : ' i ended up in intensive care a couple of times as the chemotherapy made me so ill that my body could n't cope with the treatment . after ivf failed , the couple feared they would never become parents . then 10 months later , to their utter surprise , mrs newton became pregnant naturally with baby sebastian , who was born last april .
+
+
+--------------------
+Head@0.1
+--------------------
+a woman told she was infertile after undergoing gruelling cancer treatment has spoken of her joy at giving birth to a baby boy . doctors told cara newton , 32 , from fleet , hampshire , she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . while mrs newton and her husband , chris , 34 , were relieved that chemotherapy had worked , they were devastated to be told they would never have a family of their own . some chemotherapy drugs permanently stop the ovaries from producing eggs . this means a woman can no longer get pregnant and may have symptoms of the menopause , as mrs newton did .
+
+
+--------------------
+TextRank@0.1
+--------------------
+doctors told cara newton , 32 , from fleet , hampshire , she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . while mrs newton and her husband , chris , 34 , were relieved that chemotherapy had worked , they were devastated to be told they would never have a family of their own . cara newton , 32 -lrb- with husband chris -rrb- , was told she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . then 10 months later , to their utter surprise , mrs newton became pregnant naturally with baby sebastian , who was born last april . we had to keep pinching ourselves to check it was real ' with sebastian now a year old , she said : ` being a mum to seb is the best thing in the world , chris and i finally have the perfect family we have always wanted ' she has now shared her story will give other women hope .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+doctors told cara newton , 32 , from fleet , hampshire , she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . while mrs newton and her husband , chris , 34 , were relieved that chemotherapy had worked , they were devastated to be told they would never have a family of their own . cara newton , 32 -lrb- with husband chris -rrb- , was told she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . then 10 months later , to their utter surprise , mrs newton became pregnant naturally with baby sebastian , who was born last april . we had to keep pinching ourselves to check it was real ' with sebastian now a year old , she said : ` being a mum to seb is the best thing in the world , chris and i finally have the perfect family we have always wanted ' she has now shared her story will give other women hope .
+
+
+--------------------
+USE-base@0.1
+--------------------
+she had to undergo several rounds of chemotherapy which doctors said would destroy her fertility . she said : ' i was heartbroken when doctors told me i had zero chance of ever becoming a mum . but the gruelling treatment mrs newton had undergone severely hindered their chance of conceiving . ` the treatment stopped us from trying ivf through using a donor egg straight away , ' she said . ' i hope my story shows other women who have battled cancer that despite going through the menopause after chemotherapy , that miracles do happen and that one day they could have a baby too .
+
+
+--------------------
+USE-large@0.1
+--------------------
+a woman told she was infertile after undergoing gruelling cancer treatment has spoken of her joy at giving birth to a baby boy . some chemotherapy drugs permanently stop the ovaries from producing eggs . she had to undergo several rounds of chemotherapy which doctors said would destroy her fertility . but the gruelling treatment mrs newton had undergone severely hindered their chance of conceiving . ` the treatment stopped us from trying ivf through using a donor egg straight away , ' she said .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+a woman told she was infertile after undergoing gruelling cancer treatment has spoken of her joy at giving birth to a baby boy . doctors told cara newton , 32 , from fleet , hampshire , she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . cara newton , 32 -lrb- with husband chris -rrb- , was told she had a zero per cent chance of conceiving naturally after being diagnosed with bone cancer in 2009 . she had to undergo several rounds of chemotherapy which doctors said would destroy her fertility . she said : ' i was heartbroken when doctors told me i had zero chance of ever becoming a mum .
+
+
+
+====================
+Sample 4
+====================
+
+paul sturrock experienced a baptism of fire at yeovil , as they were relegated for the second consecutive time in his first game in charge - two days after he got the job . the 58-year-old spent four days as an advisor to conference side torquay before jumping ship to join league one basement side yeovil on thursday . sturrock has been promoted five times as a manager but yeovil 's 1-1 draw with fellow strugglers notts county condemned them to relegation at huish park . yeovil town manager paul sturrock suffered relegation with the club in only his second day in charge . county defender haydn hollis headed into his own net to give the hosts the lead but the visitors , in new boss ricardo moniz 's first match , equalised through garry thompson . the glovers were tipped for promotion this season but instead , despite stopping a run of six consecutive losses , become the first league one side to be relegated . garry thompson 's equaliser condemned the glovers to back-to-back relegations .
+
+
+--------------------
+Reference
+--------------------
+yeovil town drew 1-1 with notts county at huish park on saturday .  result condemned yeovil to relegation from league one .  paul sturrock was appointed as yeovil 's latest manager on thursday . 
+
+
+--------------------
+Random@0.1
+--------------------
+yeovil town manager paul sturrock suffered relegation with the club in only his second day in charge .
+
+
+--------------------
+Head@0.1
+--------------------
+paul sturrock experienced a baptism of fire at yeovil , as they were relegated for the second consecutive time in his first game in charge - two days after he got the job .
+
+
+--------------------
+TextRank@0.1
+--------------------
+paul sturrock experienced a baptism of fire at yeovil , as they were relegated for the second consecutive time in his first game in charge - two days after he got the job .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+paul sturrock experienced a baptism of fire at yeovil , as they were relegated for the second consecutive time in his first game in charge - two days after he got the job .
+
+
+--------------------
+USE-base@0.1
+--------------------
+sturrock has been promoted five times as a manager but yeovil 's 1-1 draw with fellow strugglers notts county condemned them to relegation at huish park .
+
+
+--------------------
+USE-large@0.1
+--------------------
+yeovil town manager paul sturrock suffered relegation with the club in only his second day in charge .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+yeovil town manager paul sturrock suffered relegation with the club in only his second day in charge .
+
+
+
+====================
+Sample 5
+====================
+
+ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' . dr oz , 54 , is the vice chairman and professor of surgery at columbia 's college of physicians and surgeons . the harvard-educated doctor joined the faculty at columbia in 1993 . scroll down for video . ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' the doctors sent the letter to lee goldman , the dean of columbia 's faculties of health sciences and medicine . dr henry miller of california 's stanford university led the effort and he was the first person to sign the letter , the new york daily news reported . columbia 's medical and health sciences center . miller said : ` he 's a quack and a fake and a charlatan . ' i think i know the motivation at columbia . ` they 're star-struck , and like having on their faculty the best-known doctor in the country . ` but the fact is that his advice endangers patients , and this does n't seem to faze them . ' the nine other doctors from across the country included dr joel tepper , a cancer researcher from the university of north carolina school of medicine , and dr gilbert ross of the american council on science and health in new york city . the physicians accused dr oz of pushing ` miracle ' weight-loss supplements with no scientific proof that they work . the doctors wrote that oz , for years a world-class columbia cardiothoracic surgeon , has ` misled and endangered ' the public . the letter read : ` he has manifested an egregious lack of integrity by promoting quack treatments and cures in the interest of personal financial gain . ` thus , dr oz is guilty of either outrageous conflicts of interest or flawed judgments about what constitutes appropriate medical treatments , or both . from left to right , dr phil mcgraw , financial advisor suze orman , host oprah winfrey , dr mehmet oz and interior designer nate berkus participate in the oprah winfrey show live from radio city music hall in 2010 . the new york ivy league school responded thursday , issuing a statement to the associated press saying only that the school ` is committed to the principle of academic freedom and to upholding faculty members ' freedom of expression for statements they make in public discussion . ' dr oz first came to public attention as a frequent television guest of oprah winfrey . for the past five years , he 's been the host of the dr oz show . last year , he appeared before a us senate panel that accused him of endorsing products that were medically unsound . at the time , the doctor acknowledged some of the products he advised his viewers to use ` do n't have the scientific muster to present as fact . ' a show representative did not immediately return a call thursday from the ap seeking comment . as vice chairman of columbia 's surgery department , dr oz still occasionally teaches , said douglas levy , spokesman for the columbia university medical center .
+
+
+--------------------
+Reference
+--------------------
+mehmet oz is on staff at columbia 's college of physicians and surgeons .  dr oz is the vice chairman and professor of surgery at the medical school .  group of ten top doctors sent letter to school urging for oz 's dismissal .  said there 's no scientific proof his ` miracle ' weight-loss supplements work .  columbia said it ` is committed to the principle of academic freedom '  university has not removed tv celebrity doctor from his faculty position . 
+
+
+--------------------
+Random@0.1
+--------------------
+last year , he appeared before a us senate panel that accused him of endorsing products that were medically unsound . the new york ivy league school responded thursday , issuing a statement to the associated press saying only that the school ` is committed to the principle of academic freedom and to upholding faculty members ' freedom of expression for statements they make in public discussion .
+
+
+--------------------
+Head@0.1
+--------------------
+ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' . dr oz , 54 , is the vice chairman and professor of surgery at columbia 's college of physicians and surgeons .
+
+
+--------------------
+TextRank@0.1
+--------------------
+ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' . ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' the doctors sent the letter to lee goldman , the dean of columbia 's faculties of health sciences and medicine .
+
+
+--------------------
+BM25+eps.25@0.1
+--------------------
+ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' . ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' the doctors sent the letter to lee goldman , the dean of columbia 's faculties of health sciences and medicine .
+
+
+--------------------
+USE-base@0.1
+--------------------
+ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' . ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' the doctors sent the letter to lee goldman , the dean of columbia 's faculties of health sciences and medicine .
+
+
+--------------------
+USE-large@0.1
+--------------------
+the doctors wrote that oz , for years a world-class columbia cardiothoracic surgeon , has ` misled and endangered ' the public . as vice chairman of columbia 's surgery department , dr oz still occasionally teaches , said douglas levy , spokesman for the columbia university medical center .
+
+
+--------------------
+USE-xling@0.1
+--------------------
+ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' . ten top doctors sent a letter to columbia university urging the school to remove tv celebrity doctor mehmet oz from his faculty position because he is a ` charlatan ' who promotes ` quack treatments ' the doctors sent the letter to lee goldman , the dean of columbia 's faculties of health sciences and medicine .
+
+
+
