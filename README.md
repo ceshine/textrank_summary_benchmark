@@ -12,29 +12,35 @@ Download the dataset from [harvardnlp/sent-summary](https://github.com/harvardnl
 
 To run the inference and evaluations:
 
-Random Sampling and Head Heuristics(pick the first 10% or 20% of the sentences):
+Random Sampling and Head Heuristics (pick the first 10% of the sentences):
 
 ```bash
-python baseline.py
+python baseline.py 0.1
 ```
 
 The Original TextRank algorithm and BM25+ with IDF eps[2]:
 
 ```bash
-python textrank_base.py
+python textrank_base.py 0.1
 ```
 
 The Universal Sentence Encoder[3] from Tensorflow Hub with cosine similariy:
 
 ```bash
-python textrank_use.py
+python textrank_use.py 0.1
 ```
 
 Please refer to the Universal Sentence Encoder section for more details.
 
 ## Universal Sentence Encoder
 
-The [base model](https://tfhub.dev/google/universal-sentence-encoder/2) currently does not supports GPU. And the other two larger models ([large](https://tfhub.dev/google/universal-sentence-encoder-large/3) and [xling](https://tfhub.dev/google/universal-sentence-encoder-xling-many/1)) are very slow on CPU. Therefore I made to seperate configuration for GPU and CPU setup. For now, you need to manually comment and uncomment the relevant lines (`MODEL=...`) in `textrank_use.py`to switch between CPU and GPU.
+The [base model](https://tfhub.dev/google/universal-sentence-encoder/2) currently does not supports GPU. And the other two larger models ([large](https://tfhub.dev/google/universal-sentence-encoder-large/3) and [xling](https://tfhub.dev/google/universal-sentence-encoder-xling-many/1)) are very slow on CPU. Therefore I made to seperate configuration for GPU and CPU setup.
+
+To use the CPU setup (`base`) run:
+
+```bash
+python textrank_use.py --cpu 0.1
+```
 
 Two Dockerfiles are provided for easier environment setup.
 
@@ -47,6 +53,10 @@ Notes:
 * Head: Pick the first "Ratio*100"% of the sentences.
 * Random: Randomly pick "Ratio*100"% of the sentences.
 * USE: Universal Sentence Encoder
+
+### Samples
+
+Some sample results are provided in the [samples/](samples/) folder. They are collected via [collect_samples.py](collect_samples.py).
 
 ### Remarks
 
