@@ -10,8 +10,6 @@ import tf_sentencepiece
 
 tf.logging.set_verbosity(logging.ERROR)
 
-os.environ["TFHUB_CACHE_DIR"] = "/mnt/SSD_Data/tf_hub_cache/"
-
 MODELS = {
     "xling": "https://tfhub.dev/google/universal-sentence-encoder-xling-many/1",
     "large": "https://tfhub.dev/google/universal-sentence-encoder-large/3",
