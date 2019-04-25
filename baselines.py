@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 
 from tqdm import tqdm
@@ -28,26 +29,30 @@ BASELINES = {
 }
 
 
-def cnndm_inference():
+def cnndm_inference(ratio):
     """Summary generation for the CNN/DailyMail dataset"""
     for func_name, func in BASELINES.items():
         print("Processing \"{}\"".format(func_name))
         print("=" * 20)
         with open(str(DATA_DIR / "cnndm" / "test.txt.src")) as fin:
-            with open(str(RESULTS_DIR / "cnndm_baseline_{}.pred".format(func_name)), "w") as fout:
+            with open(str(
+                RESULTS_DIR / "cnndm_baseline_{}_{}.pred".format(
+                    func_name, int(ratio * 100))),
+                    "w") as fout:
                 for line in tqdm(fin.readlines()):
                     sentences = clean_text_by_sentences(line, "english")
                     result = " ".join(
-                        [x.text for x in func(sentences, ratio=0.1)])
+                        [x.text for x in func(sentences, ratio=ratio)])
                     fout.write(result + "\n")
 
 
-def cnndm_eval():
+def cnndm_eval(ratio):
     """Evaluation for the CNN/DailyMail dataset"""
     for func_name in BASELINES:
         print("Evaluating \"{}\"".format(func_name))
         print("=" * 20)
-        with open(str(RESULTS_DIR / "cnndm_baseline_{}.pred".format(func_name))) as fin:
+        with open(str(RESULTS_DIR / "cnndm_baseline_{}_{}.pred".format(
+                func_name, int(ratio * 100)))) as fin:
             predictions = fin.read().split("\n")[:-1]
         with open(str(DATA_DIR / "cnndm" / "test.txt.tgt.tagged")) as fin:
             references = fin.read().replace("<t> ", "").replace(
@@ -58,5 +63,10 @@ def cnndm_eval():
 
 
 if __name__ == "__main__":
-    cnndm_inference()
-    cnndm_eval()
+    parser = argparse.ArgumentParser(
+        description='Generate summaries using simple heuristics.')
+    parser.add_argument('ratio', type=float, default=0.1, nargs='?',
+                        help='Use "ratio * n_total_sentences" in summaries.')
+    args = parser.parse_args()
+    cnndm_inference(args.ratio)
+    cnndm_eval(args.ratio)

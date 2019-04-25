@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 from functools import partial
 from itertools import chain
@@ -22,9 +23,6 @@ RESULTS_DIR = Path("results/")
 RESULTS_DIR.mkdir(exist_ok=True)
 
 DATA_DIR = Path("data/")
-
-# MODELS = ["base"]  # cpu
-MODELS = ["large", "xling"]  # gpu
 
 
 def get_sentence_embeddings(session, sentences, sentence_input, sentence_emb, batch_size=128):
@@ -87,7 +85,7 @@ def summarize(sentences, similarity_matrix, ratio=0.2, split=False):
     return _format_results(extracted_sentences, split, score=None)
 
 
-def process_sentence_batch(sess, batch, fout, model):
+def process_sentence_batch(sess, batch, fout, model, ratio):
     sentence_embeddings = get_sentence_embeddings(
         sess, list(chain(*batch)), **model)
     idx_tmp = 0
@@ -97,14 +95,14 @@ def process_sentence_batch(sess, batch, fout, model):
         result = summarize(
             sentences,
             embeddings_slice @ embeddings_slice.T,
-            ratio=0.2
+            ratio=ratio
         )
         idx_tmp += len(sentences)
         result = result.replace("\n", " ")
         fout.write(result + "\n")
 
 
-def cnndm_inference(batch_size=128):
+def cnndm_inference(ratio, batch_size=128):
     """Summary generation for the CNN/DailyMail dataset"""
     for model_name in MODELS:
         print("Processing \"{}\"".format(model_name))
@@ -115,22 +113,29 @@ def cnndm_inference(batch_size=128):
                          tf.tables_initializer()])
             batch = []
             with open(str(DATA_DIR / "cnndm" / "test.txt.src")) as fin:
-                with open(str(RESULTS_DIR / "cnndm_use_{}.pred".format(model_name)), "w") as fout:
+                with open(str(
+                        RESULTS_DIR / "cnndm_use_{}_{}.pred".format(
+                            model_name, int(ratio*100))),
+                          "w") as fout:
                     for line in tqdm(fin.readlines()):
                         batch.append(clean_text_by_sentences(line, "english"))
                         if len(batch) == batch_size:
-                            process_sentence_batch(session, batch, fout, model)
+                            process_sentence_batch(
+                                session, batch, fout, model, ratio
+                            )
                             batch = []
                     if len(batch) > 0:
-                        process_sentence_batch(session, batch, fout, model)
+                        process_sentence_batch(
+                            session, batch, fout, model, ratio)
 
 
-def cnndm_eval():
+def cnndm_eval(ratio):
     """Evaluation for the CNN/DailyMail dataset"""
     for model_name in MODELS:
         print("Evaluating \"{}\"".format(model_name))
         print("=" * 20)
-        with open(str(RESULTS_DIR / "cnndm_use_{}.pred".format(model_name))) as fin:
+        with open(str(RESULTS_DIR / "cnndm_use_{}_{}.pred".format(
+                model_name, int(ratio*100)))) as fin:
             predictions = fin.read().split("\n")[:-1]
         with open(str(DATA_DIR / "cnndm" / "test.txt.tgt.tagged")) as fin:
             references = fin.read().replace("<t> ", "").replace(
@@ -141,5 +146,17 @@ def cnndm_eval():
 
 
 if __name__ == "__main__":
-    cnndm_inference()
-    cnndm_eval()
+    parser = argparse.ArgumentParser(
+        description='Generate summaries using Universal Sentence Encoder.')
+    parser.add_argument('ratio', type=float, default=0.1, nargs='?',
+                        help='Use "ratio * n_total_sentences" in summaries.')
+    parser.add_argument('--cpu', action='store_true', help=(
+        'Use "base" model with pure CPU. Otherwise, '
+        '"large" and "xling" are used with GPU.'))
+    args = parser.parse_args()
+    if args.cpu:
+        MODELS = ["base"]  # cpu
+    else:
+        MODELS = ["large", "xling"]  # gpu
+    cnndm_inference(args.ratio)
+    cnndm_eval(args.ratio)
